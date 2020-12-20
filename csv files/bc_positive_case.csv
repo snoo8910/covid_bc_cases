@@ -1,0 +1,2461 @@
+Reported_Date,HA,Sex,Age_Group
+26/01/2020,Vancouver Coastal,M,40-49
+02/02/2020,Vancouver Coastal,F,50-59
+05/02/2020,Vancouver Coastal,F,20-29
+05/02/2020,Vancouver Coastal,M,30-39
+11/02/2020,Interior,F,30-39
+20/02/2020,Fraser,F,30-39
+20/02/2020,Fraser,F,50-59
+22/02/2020,Fraser,M,40-49
+23/02/2020,Fraser,M,60-69
+27/02/2020,Vancouver Coastal,F,60-69
+28/02/2020,Vancouver Coastal,F,30-39
+02/03/2020,Fraser,M,50-59
+03/03/2020,Vancouver Coastal,F,50-59
+03/03/2020,Vancouver Coastal,M,60-69
+03/03/2020,Vancouver Coastal,F,80-89
+04/03/2020,Vancouver Coastal,M,20-29
+04/03/2020,Vancouver Coastal,M,30-39
+04/03/2020,Fraser,F,50-59
+04/03/2020,Vancouver Coastal,F,50-59
+04/03/2020,Vancouver Coastal,F,50-59
+04/03/2020,Vancouver Coastal,F,50-59
+04/03/2020,Vancouver Coastal,M,60-69
+05/03/2020,Fraser,F,50-59
+06/03/2020,Fraser,F,50-59
+06/03/2020,Fraser,F,60-69
+06/03/2020,Fraser,M,60-69
+06/03/2020,Fraser,M,60-69
+06/03/2020,Vancouver Coastal,F,70-79
+06/03/2020,Vancouver Coastal,M,80-89
+07/03/2020,Vancouver Coastal,F,50-59
+08/03/2020,Fraser,M, 10-19
+08/03/2020,Fraser,F,40-49
+08/03/2020,Fraser,M,50-59
+09/03/2020,Vancouver Coastal,M,20-29
+09/03/2020,Vancouver Coastal,M,30-39
+09/03/2020,Vancouver Coastal,F,30-39
+09/03/2020,Northern,F,60-69
+10/03/2020,Fraser,M,40-49
+10/03/2020,Vancouver Coastal,M,40-49
+10/03/2020,Vancouver Coastal,F,50-59
+10/03/2020,Vancouver Coastal,F,50-59
+10/03/2020,Vancouver Island,M,60-69
+10/03/2020,Northern,M,70-79
+10/03/2020,Fraser,M,89+
+10/03/2020,Vancouver Coastal,M,89+
+11/03/2020,Vancouver Coastal,F,30-39
+11/03/2020,Fraser,M,40-49
+11/03/2020,Vancouver Coastal,M,40-49
+11/03/2020,Vancouver Coastal,F,40-49
+11/03/2020,Vancouver Coastal,M,40-49
+11/03/2020,Fraser,F,50-59
+11/03/2020,Vancouver Coastal,M,50-59
+11/03/2020,Interior,F,60-69
+11/03/2020,Vancouver Coastal,F,60-69
+11/03/2020,Vancouver Coastal,M,60-69
+11/03/2020,Vancouver Coastal,F,70-79
+11/03/2020,Vancouver Coastal,F,70-79
+11/03/2020,Vancouver Coastal,M,80-89
+11/03/2020,Vancouver Coastal,M,89+
+12/03/2020,Vancouver Coastal,M, 10-19
+12/03/2020,Vancouver Coastal,M,20-29
+12/03/2020,Vancouver Coastal,F,30-39
+12/03/2020,Vancouver Coastal,F,30-39
+12/03/2020,Fraser,F,40-49
+12/03/2020,Vancouver Coastal,F,50-59
+12/03/2020,Vancouver Coastal,F,50-59
+12/03/2020,Vancouver Coastal,F,50-59
+12/03/2020,Vancouver Coastal,F,50-59
+12/03/2020,Fraser,M,60-69
+12/03/2020,Fraser,M,60-69
+12/03/2020,Fraser,M,70-79
+13/03/2020,Vancouver Island,F,20-29
+13/03/2020,Vancouver Coastal,M,20-29
+13/03/2020,Vancouver Island,F,30-39
+13/03/2020,Vancouver Coastal,F,30-39
+13/03/2020,Vancouver Coastal,M,30-39
+13/03/2020,Vancouver Coastal,M,30-39
+13/03/2020,Vancouver Coastal,M,40-49
+13/03/2020,Vancouver Coastal,M,40-49
+13/03/2020,Vancouver Coastal,F,40-49
+13/03/2020,Fraser,F,50-59
+13/03/2020,Vancouver Coastal,F,50-59
+13/03/2020,Vancouver Coastal,F,50-59
+13/03/2020,Vancouver Coastal,F,50-59
+13/03/2020,Fraser,F,60-69
+13/03/2020,Interior,M,60-69
+13/03/2020,Vancouver Coastal,F,60-69
+13/03/2020,Vancouver Coastal,M,60-69
+13/03/2020,Vancouver Coastal,M,60-69
+13/03/2020,Vancouver Coastal,M,60-69
+13/03/2020,Interior,F,70-79
+13/03/2020,Interior,F,70-79
+13/03/2020,Vancouver Coastal,M,70-79
+13/03/2020,Vancouver Coastal,M,80-89
+14/03/2020,Fraser,M,20-29
+14/03/2020,Vancouver Coastal,F,30-39
+14/03/2020,Vancouver Coastal,F,30-39
+14/03/2020,Fraser,F,40-49
+14/03/2020,Interior,F,40-49
+14/03/2020,Vancouver Island,M,50-59
+14/03/2020,Vancouver Coastal,F,50-59
+14/03/2020,Vancouver Coastal,M,50-59
+14/03/2020,Vancouver Coastal,M,50-59
+14/03/2020,Fraser,F,70-79
+14/03/2020,Vancouver Coastal,M,70-79
+14/03/2020,Vancouver Coastal,F,70-79
+14/03/2020,Vancouver Island,F,80-89
+14/03/2020,Fraser,M,89+
+15/03/2020,Vancouver Coastal,M,20-29
+15/03/2020,Fraser,M,30-39
+15/03/2020,Vancouver Island,M,30-39
+15/03/2020,Vancouver Coastal,F,30-39
+15/03/2020,Vancouver Coastal,F,30-39
+15/03/2020,Fraser,F,40-49
+15/03/2020,Vancouver Island,M,40-49
+15/03/2020,Vancouver Coastal,F,40-49
+15/03/2020,Fraser,M,50-59
+15/03/2020,Fraser,M,50-59
+15/03/2020,Vancouver Coastal,F,50-59
+15/03/2020,Vancouver Coastal,M,50-59
+15/03/2020,Vancouver Coastal,M,50-59
+15/03/2020,Vancouver Coastal,M,50-59
+15/03/2020,Vancouver Coastal,F,50-59
+15/03/2020,Fraser,M,60-69
+15/03/2020,Vancouver Island,M,60-69
+15/03/2020,Vancouver Island,F,60-69
+15/03/2020,Interior,F,70-79
+15/03/2020,Vancouver Island,F,70-79
+15/03/2020,Vancouver Coastal,F,70-79
+15/03/2020,Vancouver Coastal,F,80-89
+15/03/2020,Vancouver Coastal,M,80-89
+15/03/2020,Vancouver Coastal,F,80-89
+15/03/2020,Vancouver Coastal,F,80-89
+15/03/2020,Vancouver Coastal,F,80-89
+15/03/2020,Vancouver Coastal,M,80-89
+15/03/2020,Vancouver Coastal,F,89+
+15/03/2020,Vancouver Coastal,M,89+
+16/03/2020,Fraser,F,20-29
+16/03/2020,Fraser,M,20-29
+16/03/2020,Vancouver Coastal,F,20-29
+16/03/2020,Vancouver Coastal,F,20-29
+16/03/2020,Fraser,M,30-39
+16/03/2020,Fraser,F,30-39
+16/03/2020,Fraser,M,30-39
+16/03/2020,Vancouver Coastal,M,30-39
+16/03/2020,Vancouver Coastal,M,30-39
+16/03/2020,Vancouver Coastal,M,30-39
+16/03/2020,Vancouver Coastal,M,30-39
+16/03/2020,Vancouver Coastal,M,30-39
+16/03/2020,Vancouver Coastal,M,30-39
+16/03/2020,Vancouver Coastal,F,30-39
+16/03/2020,Fraser,F,40-49
+16/03/2020,Fraser,F,40-49
+16/03/2020,Vancouver Island,M,40-49
+16/03/2020,Northern,F,40-49
+16/03/2020,Vancouver Coastal,M,40-49
+16/03/2020,Vancouver Coastal,M,40-49
+16/03/2020,Vancouver Coastal,F,40-49
+16/03/2020,Fraser,F,50-59
+16/03/2020,Interior,F,50-59
+16/03/2020,Vancouver Coastal,F,50-59
+16/03/2020,Vancouver Coastal,F,50-59
+16/03/2020,Vancouver Coastal,M,50-59
+16/03/2020,Vancouver Coastal,F,50-59
+16/03/2020,Vancouver Coastal,F,50-59
+16/03/2020,Vancouver Coastal,M,50-59
+16/03/2020,Fraser,M,60-69
+16/03/2020,Fraser,F,60-69
+16/03/2020,Fraser,M,60-69
+16/03/2020,Interior,M,60-69
+16/03/2020,Northern,F,60-69
+16/03/2020,Vancouver Coastal,M,60-69
+16/03/2020,Vancouver Coastal,M,60-69
+16/03/2020,Fraser,F,70-79
+16/03/2020,Interior,F,70-79
+16/03/2020,Vancouver Island,F,70-79
+16/03/2020,Fraser,M,80-89
+16/03/2020,Vancouver Coastal,F,80-89
+16/03/2020,Vancouver Coastal,M,80-89
+16/03/2020,Vancouver Coastal,F,80-89
+16/03/2020,Vancouver Coastal,F,89+
+16/03/2020,Vancouver Coastal,F,89+
+16/03/2020,Vancouver Coastal,F,89+
+16/03/2020,Vancouver Coastal,M,89+
+16/03/2020,Vancouver Coastal,F,89+
+17/03/2020,Fraser,M,20-29
+17/03/2020,Fraser,F,20-29
+17/03/2020,Vancouver Coastal,F,20-29
+17/03/2020,Vancouver Coastal,F,20-29
+17/03/2020,Vancouver Coastal,F,20-29
+17/03/2020,Vancouver Island,F,30-39
+17/03/2020,Vancouver Island,F,30-39
+17/03/2020,Vancouver Coastal,F,30-39
+17/03/2020,Fraser,F,40-49
+17/03/2020,Interior,M,40-49
+17/03/2020,Vancouver Coastal,F,40-49
+17/03/2020,Vancouver Coastal,F,40-49
+17/03/2020,Vancouver Coastal,F,40-49
+17/03/2020,Fraser,F,50-59
+17/03/2020,Fraser,F,50-59
+17/03/2020,Fraser,F,50-59
+17/03/2020,Vancouver Island,F,50-59
+17/03/2020,Vancouver Coastal,M,50-59
+17/03/2020,Vancouver Coastal,F,50-59
+17/03/2020,Vancouver Coastal,M,50-59
+17/03/2020,Vancouver Coastal,M,50-59
+17/03/2020,Fraser,F,60-69
+17/03/2020,Fraser,F,60-69
+17/03/2020,Fraser,F,60-69
+17/03/2020,Fraser,F,70-79
+17/03/2020,Vancouver Island,F,70-79
+17/03/2020,Vancouver Coastal,M,70-79
+17/03/2020,Vancouver Coastal,F,70-79
+17/03/2020,Vancouver Coastal,F,70-79
+17/03/2020,Vancouver Coastal,F,70-79
+17/03/2020,Fraser,F,80-89
+17/03/2020,Vancouver Coastal,M,80-89
+17/03/2020,Vancouver Coastal,F,80-89
+17/03/2020,Vancouver Coastal,M,80-89
+17/03/2020,Vancouver Coastal,F,89+
+17/03/2020,Vancouver Coastal,F,89+
+17/03/2020,Vancouver Coastal,M,89+
+17/03/2020,Vancouver Coastal,M,89+
+17/03/2020,Vancouver Coastal,F,89+
+17/03/2020,Vancouver Coastal,F,89+
+17/03/2020,Vancouver Coastal,F,89+
+18/03/2020,Vancouver Island,M, 10-19
+18/03/2020,Vancouver Coastal,F,<10
+18/03/2020,Fraser,F,20-29
+18/03/2020,Fraser,M,20-29
+18/03/2020,Fraser,F,20-29
+18/03/2020,Vancouver Island,F,20-29
+18/03/2020,Vancouver Coastal,F,20-29
+18/03/2020,Fraser,F,30-39
+18/03/2020,Fraser,F,30-39
+18/03/2020,Fraser,F,30-39
+18/03/2020,Fraser,F,30-39
+18/03/2020,Fraser,F,30-39
+18/03/2020,Interior,M,30-39
+18/03/2020,Vancouver Coastal,M,30-39
+18/03/2020,Vancouver Coastal,M,30-39
+18/03/2020,Vancouver Coastal,F,30-39
+18/03/2020,Vancouver Coastal,F,30-39
+18/03/2020,Vancouver Coastal,M,30-39
+18/03/2020,Vancouver Coastal,F,30-39
+18/03/2020,Fraser,M,40-49
+18/03/2020,Fraser,M,40-49
+18/03/2020,Fraser,M,40-49
+18/03/2020,Fraser,M,40-49
+18/03/2020,Vancouver Island,F,40-49
+18/03/2020,Vancouver Island,F,40-49
+18/03/2020,Vancouver Island,M,40-49
+18/03/2020,Vancouver Coastal,M,40-49
+18/03/2020,Vancouver Coastal,F,40-49
+18/03/2020,Vancouver Coastal,M,40-49
+18/03/2020,Vancouver Coastal,M,40-49
+18/03/2020,Vancouver Coastal,M,40-49
+18/03/2020,Vancouver Coastal,F,40-49
+18/03/2020,Fraser,M,50-59
+18/03/2020,Fraser,M,50-59
+18/03/2020,Vancouver Island,M,50-59
+18/03/2020,Vancouver Coastal,M,50-59
+18/03/2020,Vancouver Coastal,M,50-59
+18/03/2020,Vancouver Coastal,F,50-59
+18/03/2020,Fraser,F,60-69
+18/03/2020,Fraser,M,60-69
+18/03/2020,Fraser,M,60-69
+18/03/2020,Fraser,F,60-69
+18/03/2020,Vancouver Coastal,M,60-69
+18/03/2020,Vancouver Coastal,M,60-69
+18/03/2020,Fraser,M,70-79
+18/03/2020,Fraser,F,70-79
+18/03/2020,Fraser,M,70-79
+18/03/2020,Vancouver Island,M,70-79
+18/03/2020,Vancouver Coastal,M,70-79
+18/03/2020,Vancouver Coastal,F,70-79
+18/03/2020,Vancouver Coastal,M,70-79
+18/03/2020,Vancouver Coastal,M,70-79
+18/03/2020,Fraser,M,80-89
+18/03/2020,Vancouver Coastal,F,80-89
+18/03/2020,Vancouver Coastal,F,80-89
+18/03/2020,Vancouver Coastal,M,80-89
+18/03/2020,Vancouver Coastal,M,80-89
+18/03/2020,Vancouver Coastal,F,80-89
+18/03/2020,Vancouver Coastal,F,89+
+19/03/2020,Fraser,F, 10-19
+19/03/2020,Fraser,M, 10-19
+19/03/2020,Fraser,M,<10
+19/03/2020,Fraser,F,20-29
+19/03/2020,Fraser,F,20-29
+19/03/2020,Fraser,F,20-29
+19/03/2020,Interior,F,20-29
+19/03/2020,Interior,F,20-29
+19/03/2020,Vancouver Island,F,20-29
+19/03/2020,Vancouver Coastal,F,20-29
+19/03/2020,Fraser,M,30-39
+19/03/2020,Fraser,F,30-39
+19/03/2020,Fraser,M,30-39
+19/03/2020,Fraser,M,30-39
+19/03/2020,Interior,F,30-39
+19/03/2020,Vancouver Island,F,30-39
+19/03/2020,Vancouver Island,F,30-39
+19/03/2020,Vancouver Island,M,30-39
+19/03/2020,Vancouver Island,F,30-39
+19/03/2020,Vancouver Island,F,30-39
+19/03/2020,Vancouver Coastal,M,30-39
+19/03/2020,Vancouver Coastal,F,30-39
+19/03/2020,Fraser,F,40-49
+19/03/2020,Fraser,M,40-49
+19/03/2020,Fraser,F,40-49
+19/03/2020,Vancouver Coastal,F,40-49
+19/03/2020,Vancouver Coastal,F,40-49
+19/03/2020,Vancouver Coastal,F,40-49
+19/03/2020,Vancouver Coastal,F,40-49
+19/03/2020,Fraser,M,50-59
+19/03/2020,Vancouver Coastal,F,50-59
+19/03/2020,Vancouver Coastal,M,50-59
+19/03/2020,Fraser,F,60-69
+19/03/2020,Fraser,M,60-69
+19/03/2020,Interior,M,60-69
+19/03/2020,Vancouver Island,F,60-69
+19/03/2020,Vancouver Coastal,F,60-69
+19/03/2020,Vancouver Coastal,F,60-69
+19/03/2020,Vancouver Coastal,F,60-69
+19/03/2020,Vancouver Coastal,M,60-69
+19/03/2020,Vancouver Coastal,F,60-69
+19/03/2020,Vancouver Coastal,M,60-69
+19/03/2020,Vancouver Coastal,F,60-69
+19/03/2020,Vancouver Coastal,F,60-69
+19/03/2020,Vancouver Coastal,M,60-69
+19/03/2020,Vancouver Coastal,M,60-69
+19/03/2020,Vancouver Coastal,F,80-89
+19/03/2020,Vancouver Coastal,F,80-89
+19/03/2020,Vancouver Coastal,M,80-89
+19/03/2020,Vancouver Coastal,F,89+
+20/03/2020,Fraser,M,20-29
+20/03/2020,Vancouver Island,F,20-29
+20/03/2020,Vancouver Coastal,F,20-29
+20/03/2020,Vancouver Coastal,M,20-29
+20/03/2020,Fraser,F,30-39
+20/03/2020,Fraser,F,30-39
+20/03/2020,Fraser,M,30-39
+20/03/2020,Fraser,M,30-39
+20/03/2020,Fraser,F,30-39
+20/03/2020,Fraser,M,30-39
+20/03/2020,Interior,M,30-39
+20/03/2020,Interior,F,30-39
+20/03/2020,Vancouver Coastal,F,30-39
+20/03/2020,Vancouver Coastal,M,30-39
+20/03/2020,Vancouver Coastal,F,30-39
+20/03/2020,Vancouver Coastal,F,30-39
+20/03/2020,Vancouver Coastal,F,30-39
+20/03/2020,Vancouver Coastal,M,30-39
+20/03/2020,Vancouver Coastal,F,30-39
+20/03/2020,Vancouver Coastal,F,30-39
+20/03/2020,Fraser,F,40-49
+20/03/2020,Fraser,F,40-49
+20/03/2020,Fraser,M,40-49
+20/03/2020,Interior,M,40-49
+20/03/2020,Interior,F,40-49
+20/03/2020,Interior,F,40-49
+20/03/2020,Interior,M,40-49
+20/03/2020,Vancouver Island,F,40-49
+20/03/2020,Vancouver Island,F,40-49
+20/03/2020,Vancouver Coastal,M,40-49
+20/03/2020,Vancouver Coastal,M,40-49
+20/03/2020,Vancouver Coastal,M,40-49
+20/03/2020,Vancouver Coastal,M,40-49
+20/03/2020,Vancouver Coastal,M,40-49
+20/03/2020,Vancouver Coastal,M,40-49
+20/03/2020,Fraser,M,50-59
+20/03/2020,Fraser,F,50-59
+20/03/2020,Fraser,F,50-59
+20/03/2020,Fraser,F,50-59
+20/03/2020,Interior,F,50-59
+20/03/2020,Vancouver Coastal,M,50-59
+20/03/2020,Vancouver Coastal,F,50-59
+20/03/2020,Vancouver Coastal,F,50-59
+20/03/2020,Vancouver Coastal,F,50-59
+20/03/2020,Vancouver Coastal,F,50-59
+20/03/2020,Vancouver Coastal,F,50-59
+20/03/2020,Vancouver Coastal,M,50-59
+20/03/2020,Vancouver Coastal,F,50-59
+20/03/2020,Vancouver Coastal,F,50-59
+20/03/2020,Interior,F,60-69
+20/03/2020,Interior,M,60-69
+20/03/2020,Vancouver Island,M,60-69
+20/03/2020,Vancouver Coastal,M,60-69
+20/03/2020,Vancouver Coastal,M,60-69
+20/03/2020,Vancouver Coastal,M,60-69
+20/03/2020,Vancouver Coastal,F,60-69
+20/03/2020,Vancouver Coastal,M,60-69
+20/03/2020,Fraser,M,70-79
+20/03/2020,Fraser,M,70-79
+20/03/2020,Vancouver Island,M,70-79
+20/03/2020,Vancouver Coastal,F,70-79
+20/03/2020,Vancouver Coastal,F,70-79
+21/03/2020,Interior,F, 10-19
+21/03/2020,Fraser,F,20-29
+21/03/2020,Fraser,F,20-29
+21/03/2020,Vancouver Coastal,F,20-29
+21/03/2020,Vancouver Coastal,F,20-29
+21/03/2020,Fraser,F,30-39
+21/03/2020,Fraser,F,30-39
+21/03/2020,Fraser,F,30-39
+21/03/2020,Fraser,F,30-39
+21/03/2020,Fraser,F,30-39
+21/03/2020,Interior,M,30-39
+21/03/2020,Interior,M,30-39
+21/03/2020,Vancouver Coastal,M,30-39
+21/03/2020,Vancouver Coastal,M,30-39
+21/03/2020,Vancouver Coastal,M,30-39
+21/03/2020,Vancouver Coastal,F,30-39
+21/03/2020,Vancouver Coastal,M,30-39
+21/03/2020,Vancouver Coastal,F,30-39
+21/03/2020,Vancouver Coastal,F,30-39
+21/03/2020,Fraser,M,40-49
+21/03/2020,Interior,F,40-49
+21/03/2020,Vancouver Coastal,F,40-49
+21/03/2020,Vancouver Coastal,F,40-49
+21/03/2020,Vancouver Coastal,F,40-49
+21/03/2020,Vancouver Coastal,F,40-49
+21/03/2020,Vancouver Coastal,M,40-49
+21/03/2020,Fraser,F,50-59
+21/03/2020,Fraser,M,50-59
+21/03/2020,Fraser,F,50-59
+21/03/2020,Fraser,F,50-59
+21/03/2020,Fraser,M,50-59
+21/03/2020,Interior,M,50-59
+21/03/2020,Vancouver Coastal,F,50-59
+21/03/2020,Vancouver Coastal,M,50-59
+21/03/2020,Vancouver Coastal,F,50-59
+21/03/2020,Fraser,F,60-69
+21/03/2020,Fraser,F,60-69
+21/03/2020,Fraser,M,60-69
+21/03/2020,Vancouver Island,F,60-69
+21/03/2020,Vancouver Coastal,F,60-69
+21/03/2020,Vancouver Coastal,M,60-69
+21/03/2020,Vancouver Coastal,F,60-69
+21/03/2020,Vancouver Coastal,M,60-69
+21/03/2020,Vancouver Coastal,F,60-69
+21/03/2020,Fraser,M,70-79
+21/03/2020,Fraser,M,70-79
+21/03/2020,Fraser,M,70-79
+21/03/2020,Fraser,M,70-79
+21/03/2020,Fraser,F,70-79
+21/03/2020,Fraser,M,70-79
+21/03/2020,Interior,F,70-79
+21/03/2020,Vancouver Island,M,70-79
+21/03/2020,Vancouver Coastal,F,70-79
+21/03/2020,Vancouver Coastal,M,70-79
+21/03/2020,Vancouver Coastal,F,70-79
+21/03/2020,Vancouver Coastal,M,70-79
+21/03/2020,Vancouver Coastal,M,70-79
+21/03/2020,Vancouver Coastal,F,70-79
+21/03/2020,Fraser,F,80-89
+21/03/2020,Vancouver Coastal,M,80-89
+21/03/2020,Vancouver Coastal,F,80-89
+21/03/2020,Vancouver Coastal,M,80-89
+21/03/2020,Vancouver Coastal,M,80-89
+21/03/2020,Vancouver Coastal,F,80-89
+21/03/2020,Vancouver Coastal,F,80-89
+21/03/2020,Vancouver Coastal,F,80-89
+22/03/2020,Interior,M,<10
+22/03/2020,Vancouver Island,F,20-29
+22/03/2020,Vancouver Coastal,F,20-29
+22/03/2020,Vancouver Coastal,M,20-29
+22/03/2020,Fraser,M,30-39
+22/03/2020,Fraser,F,30-39
+22/03/2020,Fraser,F,30-39
+22/03/2020,Fraser,M,30-39
+22/03/2020,Fraser,M,30-39
+22/03/2020,Fraser,M,30-39
+22/03/2020,Interior,F,30-39
+22/03/2020,Vancouver Coastal,M,30-39
+22/03/2020,Vancouver Coastal,M,30-39
+22/03/2020,Vancouver Coastal,M,30-39
+22/03/2020,Vancouver Coastal,F,30-39
+22/03/2020,Vancouver Coastal,M,30-39
+22/03/2020,Fraser,M,40-49
+22/03/2020,Fraser,M,40-49
+22/03/2020,Interior,F,40-49
+22/03/2020,Vancouver Island,M,40-49
+22/03/2020,Vancouver Coastal,F,40-49
+22/03/2020,Vancouver Coastal,F,40-49
+22/03/2020,Fraser,M,50-59
+22/03/2020,Fraser,F,50-59
+22/03/2020,Fraser,F,50-59
+22/03/2020,Interior,M,50-59
+22/03/2020,Vancouver Island,M,50-59
+22/03/2020,Northern,F,50-59
+22/03/2020,Vancouver Coastal,F,50-59
+22/03/2020,Vancouver Coastal,F,50-59
+22/03/2020,Vancouver Coastal,F,50-59
+22/03/2020,Vancouver Coastal,F,50-59
+22/03/2020,Vancouver Coastal,F,50-59
+22/03/2020,Vancouver Coastal,F,50-59
+22/03/2020,Vancouver Coastal,F,50-59
+22/03/2020,Vancouver Coastal,M,50-59
+22/03/2020,Fraser,M,60-69
+22/03/2020,Fraser,M,60-69
+22/03/2020,Fraser,M,60-69
+22/03/2020,Interior,F,60-69
+22/03/2020,Interior,F,60-69
+22/03/2020,Vancouver Coastal,F,60-69
+22/03/2020,Vancouver Coastal,F,60-69
+22/03/2020,Fraser,M,70-79
+22/03/2020,Fraser,M,70-79
+22/03/2020,Fraser,F,70-79
+22/03/2020,Vancouver Island,M,70-79
+22/03/2020,Vancouver Island,M,70-79
+22/03/2020,Vancouver Coastal,M,70-79
+22/03/2020,Vancouver Coastal,M,70-79
+22/03/2020,Vancouver Coastal,M,70-79
+22/03/2020,Fraser,F,80-89
+22/03/2020,Fraser,M,80-89
+22/03/2020,Fraser,M,80-89
+22/03/2020,Vancouver Coastal,F,80-89
+23/03/2020,Fraser,F,20-29
+23/03/2020,Fraser,F,20-29
+23/03/2020,Fraser,F,20-29
+23/03/2020,Fraser,F,20-29
+23/03/2020,Fraser,F,20-29
+23/03/2020,Vancouver Coastal,M,20-29
+23/03/2020,Vancouver Coastal,F,20-29
+23/03/2020,Fraser,M,30-39
+23/03/2020,Fraser,F,30-39
+23/03/2020,Fraser,M,30-39
+23/03/2020,Interior,M,30-39
+23/03/2020,Vancouver Coastal,F,30-39
+23/03/2020,Vancouver Coastal,M,30-39
+23/03/2020,Vancouver Coastal,M,30-39
+23/03/2020,Vancouver Coastal,F,30-39
+23/03/2020,Fraser,F,40-49
+23/03/2020,Fraser,F,40-49
+23/03/2020,Fraser,F,40-49
+23/03/2020,Fraser,M,40-49
+23/03/2020,Fraser,M,40-49
+23/03/2020,Fraser,M,40-49
+23/03/2020,Northern,M,40-49
+23/03/2020,Vancouver Coastal,M,40-49
+23/03/2020,Vancouver Coastal,M,40-49
+23/03/2020,Vancouver Coastal,M,40-49
+23/03/2020,Vancouver Coastal,F,40-49
+23/03/2020,Fraser,F,50-59
+23/03/2020,Fraser,F,50-59
+23/03/2020,Fraser,F,50-59
+23/03/2020,Fraser,M,50-59
+23/03/2020,Fraser,F,50-59
+23/03/2020,Vancouver Island,M,50-59
+23/03/2020,Vancouver Coastal,F,50-59
+23/03/2020,Vancouver Coastal,M,50-59
+23/03/2020,Vancouver Coastal,M,50-59
+23/03/2020,Vancouver Coastal,M,50-59
+23/03/2020,Vancouver Coastal,F,50-59
+23/03/2020,Vancouver Coastal,M,50-59
+23/03/2020,Fraser,F,60-69
+23/03/2020,Fraser,M,60-69
+23/03/2020,Fraser,M,60-69
+23/03/2020,Fraser,M,60-69
+23/03/2020,Fraser,F,60-69
+23/03/2020,Vancouver Coastal,M,60-69
+23/03/2020,Vancouver Coastal,F,60-69
+23/03/2020,Fraser,F,70-79
+23/03/2020,Fraser,M,70-79
+23/03/2020,Vancouver Coastal,M,70-79
+23/03/2020,Fraser,M,80-89
+23/03/2020,Vancouver Coastal,F,80-89
+23/03/2020,Vancouver Coastal,F,80-89
+23/03/2020,Vancouver Coastal,M,80-89
+23/03/2020,Vancouver Coastal,F,80-89
+23/03/2020,Vancouver Coastal,M,80-89
+23/03/2020,Fraser,F,89+
+23/03/2020,Vancouver Coastal,F,89+
+23/03/2020,Vancouver Coastal,M,89+
+23/03/2020,Vancouver Coastal,F,89+
+23/03/2020,Vancouver Coastal,F,89+
+24/03/2020,Fraser,M,20-29
+24/03/2020,Fraser,M,20-29
+24/03/2020,Fraser,F,20-29
+24/03/2020,Fraser,F,20-29
+24/03/2020,Fraser,F,20-29
+24/03/2020,Interior,F,20-29
+24/03/2020,Northern,F,20-29
+24/03/2020,Vancouver Coastal,M,20-29
+24/03/2020,Vancouver Coastal,F,20-29
+24/03/2020,Fraser,F,30-39
+24/03/2020,Fraser,F,30-39
+24/03/2020,Fraser,F,30-39
+24/03/2020,Fraser,M,30-39
+24/03/2020,Fraser,F,30-39
+24/03/2020,Fraser,F,30-39
+24/03/2020,Interior,M,30-39
+24/03/2020,Interior,M,30-39
+24/03/2020,Vancouver Coastal,M,30-39
+24/03/2020,Vancouver Coastal,F,30-39
+24/03/2020,Vancouver Coastal,F,30-39
+24/03/2020,Vancouver Coastal,F,30-39
+24/03/2020,Vancouver Coastal,M,30-39
+24/03/2020,Fraser,F,40-49
+24/03/2020,Fraser,M,40-49
+24/03/2020,Vancouver Coastal,F,40-49
+24/03/2020,Vancouver Coastal,M,40-49
+24/03/2020,Vancouver Coastal,F,40-49
+24/03/2020,Vancouver Coastal,F,40-49
+24/03/2020,Vancouver Coastal,F,40-49
+24/03/2020,Fraser,F,50-59
+24/03/2020,Fraser,M,50-59
+24/03/2020,Interior,F,50-59
+24/03/2020,Vancouver Island,F,50-59
+24/03/2020,Northern,M,50-59
+24/03/2020,Vancouver Coastal,M,50-59
+24/03/2020,Vancouver Coastal,F,50-59
+24/03/2020,Vancouver Coastal,M,50-59
+24/03/2020,Vancouver Coastal,M,50-59
+24/03/2020,Vancouver Coastal,F,50-59
+24/03/2020,Fraser,F,60-69
+24/03/2020,Fraser,M,60-69
+24/03/2020,Northern,F,60-69
+24/03/2020,Vancouver Coastal,M,60-69
+24/03/2020,Vancouver Coastal,M,60-69
+24/03/2020,Vancouver Coastal,M,60-69
+24/03/2020,Vancouver Coastal,F,60-69
+24/03/2020,Fraser,M,70-79
+24/03/2020,Fraser,M,70-79
+24/03/2020,Fraser,M,70-79
+24/03/2020,Fraser,F,70-79
+24/03/2020,Fraser,F,70-79
+24/03/2020,Fraser,F,70-79
+24/03/2020,Vancouver Island,M,70-79
+24/03/2020,Vancouver Coastal,M,70-79
+24/03/2020,Vancouver Coastal,M,70-79
+24/03/2020,Fraser,F,80-89
+24/03/2020,Fraser,M,80-89
+24/03/2020,Vancouver Island,F,80-89
+24/03/2020,Vancouver Coastal,F,80-89
+24/03/2020,Vancouver Coastal,F,89+
+25/03/2020,Vancouver Coastal,M, 10-19
+25/03/2020,Fraser,M,20-29
+25/03/2020,Vancouver Coastal,F,20-29
+25/03/2020,Vancouver Coastal,M,20-29
+25/03/2020,Vancouver Coastal,M,20-29
+25/03/2020,Fraser,M,30-39
+25/03/2020,Fraser,F,30-39
+25/03/2020,Fraser,F,30-39
+25/03/2020,Fraser,F,30-39
+25/03/2020,Fraser,F,30-39
+25/03/2020,Interior,F,30-39
+25/03/2020,Interior,F,30-39
+25/03/2020,Interior,F,30-39
+25/03/2020,Interior,F,30-39
+25/03/2020,Interior,M,30-39
+25/03/2020,Vancouver Island,F,30-39
+25/03/2020,Vancouver Coastal,M,30-39
+25/03/2020,Vancouver Coastal,M,30-39
+25/03/2020,Vancouver Coastal,M,30-39
+25/03/2020,Vancouver Coastal,M,30-39
+25/03/2020,Fraser,F,40-49
+25/03/2020,Fraser,F,40-49
+25/03/2020,Fraser,F,40-49
+25/03/2020,Fraser,F,40-49
+25/03/2020,Fraser,F,40-49
+25/03/2020,Interior,F,40-49
+25/03/2020,Vancouver Island,F,40-49
+25/03/2020,Vancouver Coastal,F,40-49
+25/03/2020,Vancouver Coastal,M,40-49
+25/03/2020,Vancouver Coastal,M,40-49
+25/03/2020,Vancouver Coastal,F,40-49
+25/03/2020,Vancouver Coastal,M,40-49
+25/03/2020,Vancouver Coastal,F,40-49
+25/03/2020,Vancouver Coastal,F,40-49
+25/03/2020,Fraser,M,50-59
+25/03/2020,Fraser,M,50-59
+25/03/2020,Fraser,M,50-59
+25/03/2020,Fraser,F,50-59
+25/03/2020,Fraser,F,50-59
+25/03/2020,Fraser,M,50-59
+25/03/2020,Interior,F,50-59
+25/03/2020,Interior,F,50-59
+25/03/2020,Interior,M,50-59
+25/03/2020,Interior,F,50-59
+25/03/2020,Interior,F,50-59
+25/03/2020,Interior,F,50-59
+25/03/2020,Interior,M,50-59
+25/03/2020,Vancouver Coastal,M,50-59
+25/03/2020,Vancouver Coastal,M,50-59
+25/03/2020,Vancouver Coastal,F,50-59
+25/03/2020,Vancouver Coastal,M,50-59
+25/03/2020,Vancouver Coastal,M,50-59
+25/03/2020,Vancouver Coastal,F,50-59
+25/03/2020,Fraser,F,60-69
+25/03/2020,Fraser,M,60-69
+25/03/2020,Interior,M,60-69
+25/03/2020,Interior,F,60-69
+25/03/2020,Interior,M,60-69
+25/03/2020,Interior,M,60-69
+25/03/2020,Vancouver Island,M,60-69
+25/03/2020,Vancouver Coastal,M,60-69
+25/03/2020,Vancouver Coastal,F,60-69
+25/03/2020,Vancouver Coastal,M,60-69
+25/03/2020,Fraser,M,70-79
+25/03/2020,Fraser,F,70-79
+25/03/2020,Vancouver Island,M,70-79
+25/03/2020,Vancouver Island,F,70-79
+25/03/2020,Vancouver Coastal,M,70-79
+25/03/2020,Vancouver Coastal,F,70-79
+25/03/2020,Vancouver Coastal,M,70-79
+25/03/2020,Vancouver Coastal,F,70-79
+25/03/2020,Vancouver Coastal,F,70-79
+25/03/2020,Vancouver Coastal,F,70-79
+25/03/2020,Vancouver Coastal,F,70-79
+25/03/2020,Vancouver Coastal,M,70-79
+25/03/2020,Vancouver Coastal,F,70-79
+25/03/2020,Fraser,F,80-89
+25/03/2020,Fraser,M,80-89
+25/03/2020,Vancouver Coastal,M,80-89
+25/03/2020,Vancouver Coastal,F,80-89
+25/03/2020,Vancouver Coastal,F,80-89
+25/03/2020,Vancouver Coastal,F,80-89
+25/03/2020,Vancouver Coastal,F,80-89
+25/03/2020,Vancouver Coastal,M,80-89
+25/03/2020,Vancouver Coastal,F,80-89
+25/03/2020,Vancouver Coastal,F,89+
+25/03/2020,Vancouver Coastal,F,89+
+25/03/2020,Vancouver Coastal,F,89+
+26/03/2020,Fraser,M,<10
+26/03/2020,Fraser,F,20-29
+26/03/2020,Interior,F,20-29
+26/03/2020,Interior,M,20-29
+26/03/2020,Vancouver Island,F,20-29
+26/03/2020,Northern,M,20-29
+26/03/2020,Fraser,M,30-39
+26/03/2020,Fraser,F,30-39
+26/03/2020,Fraser,F,30-39
+26/03/2020,Fraser,F,30-39
+26/03/2020,Fraser,F,30-39
+26/03/2020,Fraser,F,30-39
+26/03/2020,Fraser,M,30-39
+26/03/2020,Fraser,F,30-39
+26/03/2020,Fraser,M,30-39
+26/03/2020,Interior,M,30-39
+26/03/2020,Interior,F,30-39
+26/03/2020,Interior,M,30-39
+26/03/2020,Northern,F,30-39
+26/03/2020,Vancouver Coastal,F,30-39
+26/03/2020,Vancouver Coastal,F,30-39
+26/03/2020,Vancouver Coastal,M,30-39
+26/03/2020,Fraser,F,40-49
+26/03/2020,Fraser,F,40-49
+26/03/2020,Fraser,M,40-49
+26/03/2020,Fraser,F,40-49
+26/03/2020,Interior,F,40-49
+26/03/2020,Vancouver Island,F,40-49
+26/03/2020,Northern,M,40-49
+26/03/2020,Vancouver Coastal,M,40-49
+26/03/2020,Vancouver Coastal,M,40-49
+26/03/2020,Vancouver Coastal,F,40-49
+26/03/2020,Vancouver Coastal,F,40-49
+26/03/2020,Fraser,F,50-59
+26/03/2020,Fraser,F,50-59
+26/03/2020,Fraser,M,50-59
+26/03/2020,Vancouver Island,M,50-59
+26/03/2020,Vancouver Coastal,F,50-59
+26/03/2020,Vancouver Coastal,M,50-59
+26/03/2020,Vancouver Coastal,F,50-59
+26/03/2020,Interior,M,60-69
+26/03/2020,Vancouver Island,M,60-69
+26/03/2020,Vancouver Coastal,F,60-69
+26/03/2020,Vancouver Coastal,M,60-69
+26/03/2020,Vancouver Coastal,F,60-69
+26/03/2020,Fraser,F,70-79
+26/03/2020,Fraser,M,70-79
+26/03/2020,Interior,F,70-79
+26/03/2020,Vancouver Island,F,70-79
+26/03/2020,Vancouver Coastal,M,70-79
+26/03/2020,Vancouver Coastal,F,70-79
+26/03/2020,Vancouver Coastal,M,70-79
+26/03/2020,Fraser,M,80-89
+26/03/2020,Fraser,F,80-89
+26/03/2020,Fraser,F,80-89
+26/03/2020,Vancouver Coastal,F,89+
+27/03/2020,Fraser,M,20-29
+27/03/2020,Fraser,F,20-29
+27/03/2020,Fraser,F,20-29
+27/03/2020,Fraser,F,20-29
+27/03/2020,Interior,M,20-29
+27/03/2020,Vancouver Coastal,M,20-29
+27/03/2020,Fraser,M,30-39
+27/03/2020,Fraser,F,30-39
+27/03/2020,Fraser,F,30-39
+27/03/2020,Fraser,F,30-39
+27/03/2020,Fraser,F,30-39
+27/03/2020,Fraser,F,30-39
+27/03/2020,Vancouver Coastal,F,30-39
+27/03/2020,Vancouver Coastal,M,30-39
+27/03/2020,Vancouver Coastal,F,30-39
+27/03/2020,Vancouver Coastal,M,30-39
+27/03/2020,Vancouver Coastal,F,30-39
+27/03/2020,Fraser,F,40-49
+27/03/2020,Fraser,F,40-49
+27/03/2020,Fraser,M,40-49
+27/03/2020,Interior,F,40-49
+27/03/2020,Interior,F,40-49
+27/03/2020,Interior,M,40-49
+27/03/2020,Interior,F,40-49
+27/03/2020,Vancouver Coastal,F,40-49
+27/03/2020,Fraser,F,50-59
+27/03/2020,Fraser,F,50-59
+27/03/2020,Fraser,F,50-59
+27/03/2020,Fraser,F,50-59
+27/03/2020,Fraser,M,50-59
+27/03/2020,Fraser,M,50-59
+27/03/2020,Fraser,F,50-59
+27/03/2020,Fraser,M,50-59
+27/03/2020,Interior,F,50-59
+27/03/2020,Interior,M,50-59
+27/03/2020,Vancouver Island,F,50-59
+27/03/2020,Vancouver Island,M,50-59
+27/03/2020,Vancouver Coastal,F,50-59
+27/03/2020,Vancouver Coastal,F,50-59
+27/03/2020,Vancouver Coastal,M,50-59
+27/03/2020,Vancouver Coastal,F,50-59
+27/03/2020,Vancouver Coastal,F,50-59
+27/03/2020,Vancouver Coastal,M,50-59
+27/03/2020,Fraser,F,60-69
+27/03/2020,Fraser,M,60-69
+27/03/2020,Fraser,F,60-69
+27/03/2020,Fraser,M,60-69
+27/03/2020,Interior,F,60-69
+27/03/2020,Interior,M,60-69
+27/03/2020,Interior,F,60-69
+27/03/2020,Vancouver Coastal,M,60-69
+27/03/2020,Vancouver Coastal,M,60-69
+27/03/2020,Vancouver Coastal,F,60-69
+27/03/2020,Vancouver Coastal,M,60-69
+27/03/2020,Vancouver Coastal,F,60-69
+27/03/2020,Vancouver Coastal,M,60-69
+27/03/2020,Vancouver Coastal,M,60-69
+27/03/2020,Vancouver Coastal,F,60-69
+27/03/2020,Vancouver Coastal,F,60-69
+27/03/2020,Fraser,M,70-79
+27/03/2020,Fraser,F,70-79
+27/03/2020,Fraser,F,70-79
+27/03/2020,Fraser,M,70-79
+27/03/2020,Vancouver Island,F,70-79
+27/03/2020,Vancouver Coastal,F,70-79
+27/03/2020,Vancouver Coastal,M,70-79
+27/03/2020,Fraser,M,80-89
+27/03/2020,Vancouver Coastal,F,80-89
+27/03/2020,Vancouver Coastal,M,80-89
+27/03/2020,Vancouver Coastal,F,89+
+27/03/2020,Vancouver Coastal,M,89+
+28/03/2020,Vancouver Island,M, 10-19
+28/03/2020,Vancouver Island,F, 10-19
+28/03/2020,Fraser,F,20-29
+28/03/2020,Vancouver Island,F,20-29
+28/03/2020,Vancouver Coastal,F,20-29
+28/03/2020,Vancouver Coastal,F,20-29
+28/03/2020,Vancouver Coastal,M,20-29
+28/03/2020,Fraser,M,30-39
+28/03/2020,Interior,M,30-39
+28/03/2020,Interior,F,30-39
+28/03/2020,Interior,M,30-39
+28/03/2020,Vancouver Coastal,F,30-39
+28/03/2020,Vancouver Coastal,F,30-39
+28/03/2020,Vancouver Coastal,M,30-39
+28/03/2020,Vancouver Coastal,F,30-39
+28/03/2020,Fraser,M,40-49
+28/03/2020,Fraser,F,40-49
+28/03/2020,Vancouver Island,F,40-49
+28/03/2020,Vancouver Coastal,F,40-49
+28/03/2020,Vancouver Coastal,F,40-49
+28/03/2020,Vancouver Coastal,M,40-49
+28/03/2020,Fraser,F,50-59
+28/03/2020,Fraser,F,50-59
+28/03/2020,Fraser,M,50-59
+28/03/2020,Fraser,F,50-59
+28/03/2020,Interior,F,50-59
+28/03/2020,Northern,F,50-59
+28/03/2020,Vancouver Coastal,F,50-59
+28/03/2020,Vancouver Coastal,F,50-59
+28/03/2020,Vancouver Coastal,F,50-59
+28/03/2020,Interior,M,60-69
+28/03/2020,Interior,F,60-69
+28/03/2020,Vancouver Island,M,60-69
+28/03/2020,Vancouver Coastal,M,60-69
+28/03/2020,Fraser,M,70-79
+28/03/2020,Northern,F,70-79
+28/03/2020,Vancouver Coastal,F,70-79
+28/03/2020,Vancouver Coastal,M,70-79
+28/03/2020,Fraser,M,80-89
+28/03/2020,Fraser,F,80-89
+28/03/2020,Fraser,M,80-89
+28/03/2020,Fraser,F,80-89
+28/03/2020,Vancouver Island,M,80-89
+28/03/2020,Vancouver Coastal,F,80-89
+28/03/2020,Vancouver Coastal,M,80-89
+28/03/2020,Vancouver Coastal,F,80-89
+28/03/2020,Vancouver Coastal,F,80-89
+28/03/2020,Fraser,M,89+
+29/03/2020,Fraser,M, 10-19
+29/03/2020,Fraser,F,20-29
+29/03/2020,Fraser,M,20-29
+29/03/2020,Interior,F,20-29
+29/03/2020,Fraser,F,30-39
+29/03/2020,Fraser,F,30-39
+29/03/2020,Fraser,F,30-39
+29/03/2020,Fraser,M,30-39
+29/03/2020,Fraser,M,30-39
+29/03/2020,Fraser,F,30-39
+29/03/2020,Vancouver Coastal,F,30-39
+29/03/2020,Vancouver Coastal,F,30-39
+29/03/2020,Fraser,M,40-49
+29/03/2020,Fraser,M,40-49
+29/03/2020,Vancouver Coastal,F,40-49
+29/03/2020,Fraser,F,50-59
+29/03/2020,Fraser,M,50-59
+29/03/2020,Fraser,F,50-59
+29/03/2020,Fraser,F,50-59
+29/03/2020,Fraser,M,50-59
+29/03/2020,Fraser,F,50-59
+29/03/2020,Interior,M,50-59
+29/03/2020,Vancouver Coastal,M,50-59
+29/03/2020,Vancouver Coastal,F,50-59
+29/03/2020,Vancouver Coastal,M,50-59
+29/03/2020,Vancouver Coastal,F,50-59
+29/03/2020,Vancouver Coastal,M,50-59
+29/03/2020,Fraser,M,60-69
+29/03/2020,Fraser,M,60-69
+29/03/2020,Fraser,M,60-69
+29/03/2020,Fraser,F,60-69
+29/03/2020,Fraser,F,60-69
+29/03/2020,Interior,F,60-69
+29/03/2020,Interior,M,60-69
+29/03/2020,Interior,F,60-69
+29/03/2020,Vancouver Island,M,60-69
+29/03/2020,Vancouver Coastal,M,60-69
+29/03/2020,Vancouver Coastal,M,60-69
+29/03/2020,Vancouver Coastal,F,60-69
+29/03/2020,Fraser,M,70-79
+29/03/2020,Fraser,F,70-79
+29/03/2020,Fraser,M,70-79
+29/03/2020,Vancouver Coastal,F,70-79
+29/03/2020,Vancouver Coastal,M,70-79
+29/03/2020,Vancouver Coastal,F,70-79
+29/03/2020,Vancouver Coastal,M,70-79
+29/03/2020,Vancouver Coastal,M,80-89
+29/03/2020,Vancouver Coastal,F,80-89
+29/03/2020,Vancouver Coastal,F,89+
+29/03/2020,Vancouver Coastal,F,89+
+29/03/2020,Vancouver Coastal,F,89+
+29/03/2020,Vancouver Coastal,M,89+
+29/03/2020,Vancouver Coastal,F,89+
+30/03/2020,Fraser,M,20-29
+30/03/2020,Interior,F,20-29
+30/03/2020,Vancouver Coastal,F,20-29
+30/03/2020,Fraser,F,30-39
+30/03/2020,Fraser,F,30-39
+30/03/2020,Fraser,F,30-39
+30/03/2020,Fraser,F,30-39
+30/03/2020,Fraser,F,30-39
+30/03/2020,Interior,F,30-39
+30/03/2020,Northern,M,30-39
+30/03/2020,Vancouver Coastal,M,30-39
+30/03/2020,Vancouver Coastal,F,30-39
+30/03/2020,Vancouver Coastal,M,30-39
+30/03/2020,Fraser,M,40-49
+30/03/2020,Fraser,F,40-49
+30/03/2020,Fraser,M,40-49
+30/03/2020,Fraser,M,40-49
+30/03/2020,Fraser,M,40-49
+30/03/2020,Vancouver Coastal,M,40-49
+30/03/2020,Vancouver Coastal,F,40-49
+30/03/2020,Fraser,F,50-59
+30/03/2020,Fraser,M,50-59
+30/03/2020,Fraser,M,50-59
+30/03/2020,Fraser,M,50-59
+30/03/2020,Interior,F,50-59
+30/03/2020,Vancouver Coastal,F,50-59
+30/03/2020,Vancouver Coastal,F,50-59
+30/03/2020,Vancouver Coastal,F,50-59
+30/03/2020,Fraser,F,60-69
+30/03/2020,Fraser,F,60-69
+30/03/2020,Fraser,M,60-69
+30/03/2020,Fraser,M,60-69
+30/03/2020,Fraser,F,60-69
+30/03/2020,Interior,M,60-69
+30/03/2020,Vancouver Coastal,M,60-69
+30/03/2020,Vancouver Coastal,M,60-69
+30/03/2020,Vancouver Coastal,F,60-69
+30/03/2020,Fraser,F,70-79
+30/03/2020,Interior,F,70-79
+30/03/2020,Interior,F,70-79
+30/03/2020,Vancouver Coastal,M,70-79
+30/03/2020,Vancouver Coastal,M,70-79
+30/03/2020,Vancouver Coastal,M,70-79
+30/03/2020,Vancouver Coastal,F,70-79
+30/03/2020,Fraser,M,80-89
+30/03/2020,Fraser,M,80-89
+30/03/2020,Vancouver Coastal,M,80-89
+30/03/2020,Vancouver Coastal,M,80-89
+30/03/2020,Vancouver Coastal,M,80-89
+30/03/2020,Vancouver Coastal,F,80-89
+30/03/2020,Vancouver Coastal,F,89+
+30/03/2020,Vancouver Coastal,F,89+
+30/03/2020,Vancouver Coastal,F,89+
+31/03/2020,Interior,M,20-29
+31/03/2020,Vancouver Coastal,F,20-29
+31/03/2020,Fraser,F,30-39
+31/03/2020,Fraser,F,30-39
+31/03/2020,Fraser,M,30-39
+31/03/2020,Fraser,F,30-39
+31/03/2020,Interior,F,30-39
+31/03/2020,Interior,F,30-39
+31/03/2020,Interior,M,30-39
+31/03/2020,Interior,M,30-39
+31/03/2020,Interior,M,30-39
+31/03/2020,Interior,M,30-39
+31/03/2020,Fraser,M,40-49
+31/03/2020,Fraser,F,40-49
+31/03/2020,Fraser,F,40-49
+31/03/2020,Fraser,F,40-49
+31/03/2020,Interior,M,40-49
+31/03/2020,Interior,M,40-49
+31/03/2020,Interior,M,40-49
+31/03/2020,Interior,M,40-49
+31/03/2020,Interior,M,40-49
+31/03/2020,Interior,M,40-49
+31/03/2020,Interior,F,40-49
+31/03/2020,Interior,F,40-49
+31/03/2020,Northern,F,40-49
+31/03/2020,Vancouver Coastal,M,40-49
+31/03/2020,Vancouver Coastal,M,40-49
+31/03/2020,Vancouver Coastal,F,40-49
+31/03/2020,Fraser,M,50-59
+31/03/2020,Fraser,M,50-59
+31/03/2020,Fraser,F,50-59
+31/03/2020,Fraser,F,50-59
+31/03/2020,Fraser,F,50-59
+31/03/2020,Interior,M,50-59
+31/03/2020,Interior,M,50-59
+31/03/2020,Vancouver Coastal,M,50-59
+31/03/2020,Vancouver Coastal,F,50-59
+31/03/2020,Vancouver Coastal,M,50-59
+31/03/2020,Fraser,M,60-69
+31/03/2020,Fraser,M,60-69
+31/03/2020,Interior,M,60-69
+31/03/2020,Vancouver Island,F,60-69
+31/03/2020,Vancouver Island,M,60-69
+31/03/2020,Vancouver Coastal,F,60-69
+31/03/2020,Vancouver Coastal,M,60-69
+31/03/2020,Vancouver Coastal,F,60-69
+31/03/2020,Vancouver Coastal,F,60-69
+31/03/2020,Fraser,M,70-79
+31/03/2020,Fraser,M,70-79
+31/03/2020,Vancouver Island,M,70-79
+31/03/2020,Vancouver Island,M,70-79
+31/03/2020,Vancouver Coastal,F,70-79
+31/03/2020,Vancouver Coastal,M,70-79
+31/03/2020,Fraser,F,80-89
+31/03/2020,Vancouver Coastal,F,80-89
+31/03/2020,Vancouver Coastal,M,80-89
+31/03/2020,Vancouver Coastal,F,80-89
+31/03/2020,Fraser,F,89+
+31/03/2020,Vancouver Island,M,89+
+01/04/2020,Fraser,F,20-29
+01/04/2020,Vancouver Coastal,M,20-29
+01/04/2020,Fraser,F,30-39
+01/04/2020,Fraser,F,30-39
+01/04/2020,Fraser,M,30-39
+01/04/2020,Fraser,F,30-39
+01/04/2020,Interior,F,30-39
+01/04/2020,Vancouver Coastal,F,30-39
+01/04/2020,Vancouver Coastal,F,30-39
+01/04/2020,Vancouver Coastal,F,30-39
+01/04/2020,Fraser,M,40-49
+01/04/2020,Fraser,F,40-49
+01/04/2020,Fraser,M,40-49
+01/04/2020,Fraser,M,40-49
+01/04/2020,Interior,F,40-49
+01/04/2020,Vancouver Coastal,M,40-49
+01/04/2020,Vancouver Coastal,F,40-49
+01/04/2020,Vancouver Coastal,M,40-49
+01/04/2020,Vancouver Coastal,M,40-49
+01/04/2020,Vancouver Coastal,F,40-49
+01/04/2020,Fraser,M,50-59
+01/04/2020,Fraser,F,50-59
+01/04/2020,Fraser,F,50-59
+01/04/2020,Fraser,F,50-59
+01/04/2020,Fraser,M,50-59
+01/04/2020,Fraser,F,50-59
+01/04/2020,Fraser,F,50-59
+01/04/2020,Fraser,M,50-59
+01/04/2020,Fraser,M,50-59
+01/04/2020,Interior,F,50-59
+01/04/2020,Interior,M,50-59
+01/04/2020,Vancouver Coastal,M,50-59
+01/04/2020,Vancouver Coastal,M,50-59
+01/04/2020,Vancouver Coastal,F,50-59
+01/04/2020,Vancouver Coastal,M,50-59
+01/04/2020,Vancouver Coastal,F,50-59
+01/04/2020,Vancouver Coastal,M,50-59
+01/04/2020,Vancouver Coastal,F,50-59
+01/04/2020,Fraser,F,60-69
+01/04/2020,Fraser,M,60-69
+01/04/2020,Interior,M,60-69
+01/04/2020,Interior,M,60-69
+01/04/2020,Northern,M,60-69
+01/04/2020,Vancouver Coastal,M,60-69
+01/04/2020,Vancouver Coastal,M,60-69
+01/04/2020,Fraser,F,70-79
+01/04/2020,Fraser,F,80-89
+01/04/2020,Vancouver Coastal,F,80-89
+01/04/2020,Vancouver Coastal,F,80-89
+01/04/2020,Fraser,M,89+
+01/04/2020,Vancouver Coastal,M,89+
+01/04/2020,Vancouver Coastal,F,89+
+01/04/2020,Vancouver Coastal,F,89+
+02/04/2020,Fraser,F,20-29
+02/04/2020,Fraser,F,20-29
+02/04/2020,Vancouver Coastal,M,20-29
+02/04/2020,Fraser,M,30-39
+02/04/2020,Fraser,M,30-39
+02/04/2020,Fraser,F,30-39
+02/04/2020,Fraser,F,30-39
+02/04/2020,Interior,M,30-39
+02/04/2020,Northern,F,30-39
+02/04/2020,Northern,F,30-39
+02/04/2020,Vancouver Coastal,M,30-39
+02/04/2020,Vancouver Coastal,F,30-39
+02/04/2020,Vancouver Coastal,F,30-39
+02/04/2020,Fraser,M,40-49
+02/04/2020,Fraser,F,40-49
+02/04/2020,Fraser,M,40-49
+02/04/2020,Fraser,M,40-49
+02/04/2020,Fraser,F,40-49
+02/04/2020,Fraser,M,40-49
+02/04/2020,Vancouver Coastal,F,40-49
+02/04/2020,Fraser,M,50-59
+02/04/2020,Fraser,M,50-59
+02/04/2020,Fraser,F,50-59
+02/04/2020,Fraser,F,50-59
+02/04/2020,Fraser,M,50-59
+02/04/2020,Fraser,M,50-59
+02/04/2020,Vancouver Island,F,50-59
+02/04/2020,Northern,F,50-59
+02/04/2020,Vancouver Coastal,F,50-59
+02/04/2020,Vancouver Coastal,F,50-59
+02/04/2020,Vancouver Coastal,M,50-59
+02/04/2020,Vancouver Coastal,F,50-59
+02/04/2020,Fraser,M,60-69
+02/04/2020,Fraser,M,60-69
+02/04/2020,Fraser,F,60-69
+02/04/2020,Fraser,F,60-69
+02/04/2020,Northern,M,60-69
+02/04/2020,Vancouver Coastal,M,60-69
+02/04/2020,Vancouver Coastal,M,60-69
+02/04/2020,Vancouver Coastal,M,60-69
+02/04/2020,Fraser,M,70-79
+02/04/2020,Fraser,F,70-79
+02/04/2020,Interior,M,70-79
+02/04/2020,Vancouver Coastal,F,70-79
+02/04/2020,Fraser,M,80-89
+02/04/2020,Vancouver Island,M,80-89
+02/04/2020,Vancouver Coastal,F,80-89
+02/04/2020,Vancouver Coastal,F,80-89
+02/04/2020,Vancouver Coastal,M,80-89
+02/04/2020,Vancouver Coastal,F,80-89
+02/04/2020,Fraser,M,89+
+02/04/2020,Fraser,F,89+
+02/04/2020,Vancouver Coastal,F,89+
+02/04/2020,Vancouver Coastal,F,89+
+03/04/2020,Fraser,F,20-29
+03/04/2020,Vancouver Coastal,F,20-29
+03/04/2020,Vancouver Coastal,M,20-29
+03/04/2020,Fraser,F,30-39
+03/04/2020,Vancouver Coastal,M,30-39
+03/04/2020,Vancouver Coastal,F,30-39
+03/04/2020,Fraser,F,40-49
+03/04/2020,Interior,F,40-49
+03/04/2020,Vancouver Coastal,F,40-49
+03/04/2020,Vancouver Coastal,F,40-49
+03/04/2020,Fraser,M,50-59
+03/04/2020,Interior,M,50-59
+03/04/2020,Fraser,F,60-69
+03/04/2020,Fraser,M,60-69
+03/04/2020,Interior,F,60-69
+03/04/2020,Vancouver Coastal,M,60-69
+03/04/2020,Vancouver Coastal,M,60-69
+03/04/2020,Vancouver Coastal,F,60-69
+03/04/2020,Fraser,F,70-79
+03/04/2020,Fraser,M,70-79
+03/04/2020,Interior,F,70-79
+03/04/2020,Interior,M,70-79
+03/04/2020,Vancouver Island,F,70-79
+03/04/2020,Vancouver Coastal,M,70-79
+03/04/2020,Fraser,M,80-89
+03/04/2020,Vancouver Island,F,80-89
+03/04/2020,Vancouver Island,M,80-89
+03/04/2020,Vancouver Coastal,F,80-89
+03/04/2020,Vancouver Coastal,M,80-89
+03/04/2020,Vancouver Coastal,M,89+
+04/04/2020,Fraser,M,20-29
+04/04/2020,Vancouver Coastal,M,20-29
+04/04/2020,Vancouver Coastal,F,20-29
+04/04/2020,Vancouver Coastal,F,30-39
+04/04/2020,Fraser,F,40-49
+04/04/2020,Vancouver Coastal,M,40-49
+04/04/2020,Vancouver Coastal,M,40-49
+04/04/2020,Fraser,F,50-59
+04/04/2020,Fraser,M,50-59
+04/04/2020,Fraser,F,50-59
+04/04/2020,Fraser,F,50-59
+04/04/2020,Fraser,M,50-59
+04/04/2020,Fraser,F,50-59
+04/04/2020,Vancouver Island,M,50-59
+04/04/2020,Vancouver Island,F,50-59
+04/04/2020,Northern,M,50-59
+04/04/2020,Vancouver Coastal,F,50-59
+04/04/2020,Fraser,F,60-69
+04/04/2020,Fraser,F,60-69
+04/04/2020,Vancouver Island,M,60-69
+04/04/2020,Vancouver Coastal,F,60-69
+04/04/2020,Vancouver Coastal,M,60-69
+04/04/2020,Fraser,F,70-79
+04/04/2020,Fraser,M,70-79
+04/04/2020,Fraser,F,70-79
+04/04/2020,Fraser,M,70-79
+04/04/2020,Fraser,M,70-79
+04/04/2020,Vancouver Coastal,F,70-79
+04/04/2020,Vancouver Coastal,M,70-79
+04/04/2020,Vancouver Coastal,M,70-79
+04/04/2020,Fraser,M,80-89
+04/04/2020,Fraser,M,80-89
+04/04/2020,Fraser,F,80-89
+04/04/2020,Vancouver Coastal,M,80-89
+04/04/2020,Vancouver Coastal,M,80-89
+04/04/2020,Vancouver Coastal,F,89+
+04/04/2020,Vancouver Coastal,F,89+
+05/04/2020,Fraser,F,20-29
+05/04/2020,Vancouver Coastal,M,20-29
+05/04/2020,Vancouver Coastal,F,30-39
+05/04/2020,Fraser,F,40-49
+05/04/2020,Vancouver Coastal,F,40-49
+05/04/2020,Fraser,M,50-59
+05/04/2020,Fraser,F,50-59
+05/04/2020,Vancouver Coastal,F,50-59
+05/04/2020,Fraser,F,60-69
+05/04/2020,Fraser,F,60-69
+05/04/2020,Northern,F,60-69
+05/04/2020,Vancouver Coastal,F,60-69
+05/04/2020,Fraser,F,70-79
+05/04/2020,Fraser,M,70-79
+05/04/2020,Vancouver Coastal,M,70-79
+05/04/2020,Fraser,F,80-89
+05/04/2020,Interior,F,80-89
+05/04/2020,Interior,M,80-89
+05/04/2020,Vancouver Coastal,M,80-89
+05/04/2020,Vancouver Coastal,F,80-89
+06/04/2020,Fraser,M,30-39
+06/04/2020,Vancouver Coastal,F,30-39
+06/04/2020,Vancouver Coastal,F,30-39
+06/04/2020,Fraser,F,40-49
+06/04/2020,Fraser,M,40-49
+06/04/2020,Fraser,F,40-49
+06/04/2020,Interior,M,40-49
+06/04/2020,Interior,M,40-49
+06/04/2020,Vancouver Coastal,F,40-49
+06/04/2020,Vancouver Coastal,M,40-49
+06/04/2020,Vancouver Coastal,F,40-49
+06/04/2020,Vancouver Coastal,F,40-49
+06/04/2020,Fraser,F,50-59
+06/04/2020,Fraser,F,50-59
+06/04/2020,Fraser,M,50-59
+06/04/2020,Vancouver Coastal,F,50-59
+06/04/2020,Vancouver Coastal,M,60-69
+06/04/2020,Vancouver Coastal,M,60-69
+06/04/2020,Vancouver Coastal,M,60-69
+06/04/2020,Vancouver Coastal,M,60-69
+06/04/2020,Vancouver Coastal,M,60-69
+06/04/2020,Interior,F,70-79
+06/04/2020,Vancouver Coastal,M,70-79
+06/04/2020,Vancouver Coastal,M,80-89
+06/04/2020,Vancouver Coastal,M,80-89
+06/04/2020,Vancouver Coastal,F,80-89
+06/04/2020,Vancouver Coastal,F,89+
+06/04/2020,Vancouver Coastal,F,89+
+06/04/2020,Vancouver Coastal,F,89+
+06/04/2020,Vancouver Coastal,F,89+
+06/04/2020,Vancouver Coastal,F,89+
+06/04/2020,Vancouver Coastal,M,89+
+07/04/2020,Fraser,M,20-29
+07/04/2020,Fraser,M,20-29
+07/04/2020,Fraser,M,20-29
+07/04/2020,Fraser,F,30-39
+07/04/2020,Fraser,M,30-39
+07/04/2020,Fraser,M,30-39
+07/04/2020,Interior,M,30-39
+07/04/2020,Vancouver Coastal,F,30-39
+07/04/2020,Fraser,M,40-49
+07/04/2020,Fraser,M,40-49
+07/04/2020,Fraser,M,40-49
+07/04/2020,Fraser,F,40-49
+07/04/2020,Fraser,F,40-49
+07/04/2020,Vancouver Island,M,40-49
+07/04/2020,Vancouver Coastal,F,40-49
+07/04/2020,Fraser,M,50-59
+07/04/2020,Fraser,M,50-59
+07/04/2020,Fraser,M,50-59
+07/04/2020,Fraser,F,50-59
+07/04/2020,Fraser,F,50-59
+07/04/2020,Fraser,M,50-59
+07/04/2020,Fraser,F,50-59
+07/04/2020,Vancouver Coastal,F,50-59
+07/04/2020,Fraser,F,60-69
+07/04/2020,Fraser,M,60-69
+07/04/2020,Fraser,M,60-69
+07/04/2020,Fraser,F,60-69
+07/04/2020,Fraser,F,60-69
+07/04/2020,Fraser,M,60-69
+07/04/2020,Vancouver Coastal,F,60-69
+07/04/2020,Vancouver Coastal,F,60-69
+07/04/2020,Vancouver Coastal,M,60-69
+07/04/2020,Fraser,F,70-79
+07/04/2020,Fraser,M,70-79
+07/04/2020,Fraser,M,70-79
+07/04/2020,Fraser,M,70-79
+07/04/2020,Fraser,M,70-79
+07/04/2020,Fraser,M,70-79
+07/04/2020,Fraser,M,70-79
+07/04/2020,Vancouver Island,F,70-79
+07/04/2020,Vancouver Coastal,M,70-79
+07/04/2020,Vancouver Coastal,M,70-79
+07/04/2020,Fraser,F,80-89
+07/04/2020,Fraser,F,80-89
+07/04/2020,Fraser,M,80-89
+07/04/2020,Vancouver Coastal,M,80-89
+07/04/2020,Vancouver Coastal,F,89+
+08/04/2020,Fraser,M,20-29
+08/04/2020,Vancouver Coastal,F,20-29
+08/04/2020,Fraser,M,30-39
+08/04/2020,Fraser,M,30-39
+08/04/2020,Fraser,M,30-39
+08/04/2020,Fraser,F,30-39
+08/04/2020,Vancouver Island,M,30-39
+08/04/2020,Vancouver Coastal,F,30-39
+08/04/2020,Fraser,M,40-49
+08/04/2020,Fraser,M,40-49
+08/04/2020,Northern,F,40-49
+08/04/2020,Vancouver Coastal,F,40-49
+08/04/2020,Fraser,M,50-59
+08/04/2020,Vancouver Coastal,F,50-59
+08/04/2020,Fraser,M,60-69
+08/04/2020,Fraser,M,60-69
+08/04/2020,Fraser,F,60-69
+08/04/2020,Fraser,F,60-69
+08/04/2020,Vancouver Coastal,M,60-69
+08/04/2020,Fraser,F,70-79
+08/04/2020,Fraser,F,70-79
+08/04/2020,Vancouver Coastal,F,70-79
+08/04/2020,Vancouver Coastal,F,70-79
+08/04/2020,Fraser,M,80-89
+08/04/2020,Vancouver Coastal,F,80-89
+08/04/2020,Vancouver Coastal,M,80-89
+08/04/2020,Fraser,F,89+
+08/04/2020,Fraser,M,89+
+08/04/2020,Vancouver Coastal,F,89+
+08/04/2020,Vancouver Coastal,F,89+
+09/04/2020,Interior,F,20-29
+09/04/2020,Vancouver Island,F,20-29
+09/04/2020,Fraser,M,30-39
+09/04/2020,Fraser,M,30-39
+09/04/2020,Fraser,M,30-39
+09/04/2020,Fraser,M,30-39
+09/04/2020,Fraser,M,40-49
+09/04/2020,Fraser,M,40-49
+09/04/2020,Fraser,M,40-49
+09/04/2020,Northern,M,40-49
+09/04/2020,Vancouver Coastal,M,40-49
+09/04/2020,Vancouver Coastal,F,40-49
+09/04/2020,Vancouver Coastal,F,40-49
+09/04/2020,Vancouver Coastal,M,40-49
+09/04/2020,Fraser,M,50-59
+09/04/2020,Fraser,M,50-59
+09/04/2020,Fraser,F,50-59
+09/04/2020,Fraser,M,50-59
+09/04/2020,Interior,F,50-59
+09/04/2020,Fraser,M,60-69
+09/04/2020,Northern,F,60-69
+09/04/2020,Fraser,M,70-79
+09/04/2020,Vancouver Island,F,80-89
+09/04/2020,Vancouver Coastal,F,80-89
+09/04/2020,Fraser,M,89+
+10/04/2020,Vancouver Coastal,M, 10-19
+10/04/2020,Fraser,M,30-39
+10/04/2020,Fraser,F,30-39
+10/04/2020,Fraser,F,30-39
+10/04/2020,Fraser,M,30-39
+10/04/2020,Fraser,M,30-39
+10/04/2020,Fraser,M,30-39
+10/04/2020,Fraser,M,30-39
+10/04/2020,Fraser,F,30-39
+10/04/2020,Fraser,F,30-39
+10/04/2020,Fraser,F,30-39
+10/04/2020,Vancouver Coastal,M,30-39
+10/04/2020,Fraser,M,40-49
+10/04/2020,Fraser,F,40-49
+10/04/2020,Interior,M,40-49
+10/04/2020,Vancouver Coastal,M,40-49
+10/04/2020,Vancouver Coastal,F,40-49
+10/04/2020,Fraser,M,50-59
+10/04/2020,Fraser,F,50-59
+10/04/2020,Fraser,F,50-59
+10/04/2020,Fraser,M,50-59
+10/04/2020,Fraser,M,50-59
+10/04/2020,Fraser,M,50-59
+10/04/2020,Fraser,F,50-59
+10/04/2020,Fraser,F,50-59
+10/04/2020,Fraser,M,50-59
+10/04/2020,Fraser,M,50-59
+10/04/2020,Fraser,M,50-59
+10/04/2020,Interior,F,50-59
+10/04/2020,Interior,F,50-59
+10/04/2020,Interior,M,50-59
+10/04/2020,Vancouver Coastal,M,50-59
+10/04/2020,Vancouver Coastal,F,50-59
+10/04/2020,Vancouver Coastal,F,50-59
+10/04/2020,Vancouver Coastal,F,50-59
+10/04/2020,Vancouver Coastal,F,50-59
+10/04/2020,Fraser,M,60-69
+10/04/2020,Fraser,F,60-69
+10/04/2020,Fraser,M,60-69
+10/04/2020,Interior,M,60-69
+10/04/2020,Vancouver Coastal,F,60-69
+10/04/2020,Vancouver Coastal,F,60-69
+10/04/2020,Fraser,M,70-79
+10/04/2020,Vancouver Coastal,M,70-79
+10/04/2020,Fraser,F,80-89
+10/04/2020,Fraser,M,80-89
+10/04/2020,Fraser,F,80-89
+10/04/2020,Fraser,M,80-89
+10/04/2020,Fraser,M,80-89
+10/04/2020,Fraser,F,89+
+10/04/2020,Vancouver Coastal,F,89+
+11/04/2020,Fraser,M,30-39
+11/04/2020,Fraser,F,30-39
+11/04/2020,Fraser,F,30-39
+11/04/2020,Fraser,M,30-39
+11/04/2020,Interior,M,30-39
+11/04/2020,Fraser,M,40-49
+11/04/2020,Fraser,M,40-49
+11/04/2020,Fraser,F,50-59
+11/04/2020,Interior,M,50-59
+11/04/2020,Vancouver Island,F,50-59
+11/04/2020,Vancouver Coastal,F,50-59
+11/04/2020,Fraser,M,60-69
+11/04/2020,Fraser,F,60-69
+11/04/2020,Fraser,M,60-69
+11/04/2020,Fraser,F,60-69
+11/04/2020,Fraser,F,60-69
+11/04/2020,Fraser,F,60-69
+11/04/2020,Vancouver Coastal,M,60-69
+11/04/2020,Vancouver Island,M,70-79
+11/04/2020,Fraser,F,80-89
+11/04/2020,Fraser,M,80-89
+11/04/2020,Vancouver Coastal,F,80-89
+11/04/2020,Fraser,F,89+
+11/04/2020,Vancouver Coastal,F,89+
+12/04/2020,Fraser,M, 10-19
+12/04/2020,Fraser,F,20-29
+12/04/2020,Fraser,M,30-39
+12/04/2020,Fraser,M,30-39
+12/04/2020,Fraser,F,40-49
+12/04/2020,Fraser,F,40-49
+12/04/2020,Fraser,F,50-59
+12/04/2020,Fraser,M,50-59
+12/04/2020,Fraser,F,50-59
+12/04/2020,Vancouver Coastal,F,50-59
+12/04/2020,Fraser,M,60-69
+12/04/2020,Fraser,F,60-69
+12/04/2020,Vancouver Island,M,60-69
+12/04/2020,Vancouver Coastal,F,60-69
+12/04/2020,Fraser,F,70-79
+12/04/2020,Fraser,M,80-89
+12/04/2020,Fraser,M,80-89
+12/04/2020,Fraser,M,80-89
+12/04/2020,Fraser,F,89+
+12/04/2020,Vancouver Coastal,F,89+
+13/04/2020,Vancouver Coastal,M, 10-19
+13/04/2020,Fraser,M,20-29
+13/04/2020,Fraser,F,20-29
+13/04/2020,Fraser,M,20-29
+13/04/2020,Fraser,F,20-29
+13/04/2020,Fraser,M,30-39
+13/04/2020,Fraser,F,30-39
+13/04/2020,Vancouver Island,M,30-39
+13/04/2020,Vancouver Coastal,M,30-39
+13/04/2020,Fraser,M,40-49
+13/04/2020,Fraser,F,40-49
+13/04/2020,Fraser,M,40-49
+13/04/2020,Fraser,F,40-49
+13/04/2020,Fraser,F,40-49
+13/04/2020,Interior,M,40-49
+13/04/2020,Interior,F,40-49
+13/04/2020,Vancouver Island,F,40-49
+13/04/2020,Vancouver Coastal,F,40-49
+13/04/2020,Fraser,F,50-59
+13/04/2020,Fraser,M,50-59
+13/04/2020,Fraser,M,50-59
+13/04/2020,Vancouver Coastal,M,50-59
+13/04/2020,Vancouver Coastal,F,50-59
+13/04/2020,Fraser,M,60-69
+13/04/2020,Fraser,F,60-69
+13/04/2020,Fraser,F,60-69
+13/04/2020,Fraser,F,70-79
+13/04/2020,Fraser,M,70-79
+13/04/2020,Vancouver Coastal,F,70-79
+13/04/2020,Vancouver Coastal,M,70-79
+13/04/2020,Vancouver Coastal,M,80-89
+13/04/2020,Vancouver Coastal,F,89+
+14/04/2020,Vancouver Coastal,M,<10
+14/04/2020,Vancouver Coastal,M,<10
+14/04/2020,Vancouver Coastal,M,<10
+14/04/2020,Fraser,F,20-29
+14/04/2020,Fraser,F,20-29
+14/04/2020,Northern,F,20-29
+14/04/2020,Vancouver Coastal,M,20-29
+14/04/2020,Fraser,M,30-39
+14/04/2020,Northern,F,30-39
+14/04/2020,Northern,M,30-39
+14/04/2020,Fraser,M,40-49
+14/04/2020,Interior,M,40-49
+14/04/2020,Interior,M,40-49
+14/04/2020,Vancouver Coastal,M,40-49
+14/04/2020,Fraser,M,50-59
+14/04/2020,Interior,M,50-59
+14/04/2020,Interior,M,50-59
+14/04/2020,Vancouver Coastal,F,50-59
+14/04/2020,Vancouver Coastal,M,50-59
+14/04/2020,Fraser,M,60-69
+14/04/2020,Vancouver Island,M,60-69
+14/04/2020,Vancouver Coastal,M,60-69
+14/04/2020,Vancouver Coastal,F,60-69
+14/04/2020,Fraser,M,70-79
+14/04/2020,Fraser,F,70-79
+14/04/2020,Interior,F,70-79
+14/04/2020,Interior,M,70-79
+14/04/2020,Vancouver Island,F,70-79
+14/04/2020,Vancouver Island,M,70-79
+14/04/2020,Northern,F,70-79
+14/04/2020,Vancouver Coastal,F,70-79
+14/04/2020,Fraser,M,80-89
+14/04/2020,Vancouver Coastal,F,80-89
+14/04/2020,Vancouver Coastal,M,80-89
+15/04/2020,Fraser,F,20-29
+15/04/2020,Fraser,M,30-39
+15/04/2020,Northern,F,30-39
+15/04/2020,Vancouver Coastal,F,30-39
+15/04/2020,Fraser,F,40-49
+15/04/2020,Interior,F,40-49
+15/04/2020,Vancouver Island,M,40-49
+15/04/2020,Fraser,M,50-59
+15/04/2020,Fraser,F,50-59
+15/04/2020,Fraser,F,50-59
+15/04/2020,Interior,M,50-59
+15/04/2020,Vancouver Island,F,50-59
+15/04/2020,Fraser,M,70-79
+16/04/2020,Fraser,F,20-29
+16/04/2020,Fraser,M,20-29
+16/04/2020,Fraser,M,20-29
+16/04/2020,Fraser,M,20-29
+16/04/2020,Fraser,M,20-29
+16/04/2020,Fraser,M,20-29
+16/04/2020,Fraser,M,20-29
+16/04/2020,Fraser,M,20-29
+16/04/2020,Fraser,M,20-29
+16/04/2020,Northern,M,20-29
+16/04/2020,Vancouver Coastal,F,20-29
+16/04/2020,Vancouver Coastal,F,20-29
+16/04/2020,Fraser,M,30-39
+16/04/2020,Fraser,F,30-39
+16/04/2020,Fraser,M,30-39
+16/04/2020,Fraser,M,30-39
+16/04/2020,Fraser,M,30-39
+16/04/2020,Fraser,M,30-39
+16/04/2020,Fraser,F,30-39
+16/04/2020,Northern,M,30-39
+16/04/2020,Vancouver Coastal,M,30-39
+16/04/2020,Vancouver Coastal,M,30-39
+16/04/2020,Fraser,M,40-49
+16/04/2020,Fraser,M,40-49
+16/04/2020,Fraser,F,40-49
+16/04/2020,Fraser,M,40-49
+16/04/2020,Fraser,M,40-49
+16/04/2020,Fraser,M,40-49
+16/04/2020,Fraser,F,50-59
+16/04/2020,Fraser,M,50-59
+16/04/2020,Fraser,M,50-59
+16/04/2020,Fraser,M,50-59
+16/04/2020,Fraser,M,50-59
+16/04/2020,Vancouver Coastal,F,50-59
+16/04/2020,Vancouver Coastal,M,50-59
+16/04/2020,Vancouver Coastal,F,50-59
+16/04/2020,Fraser,M,60-69
+16/04/2020,Vancouver Coastal,M,60-69
+16/04/2020,Fraser,F,70-79
+16/04/2020,Fraser,M,70-79
+16/04/2020,Fraser,F,80-89
+16/04/2020,Fraser,F,80-89
+16/04/2020,Fraser,F,89+
+16/04/2020,Vancouver Coastal,M,89+
+16/04/2020,Vancouver Coastal,F,89+
+17/04/2020,Fraser,M,20-29
+17/04/2020,Fraser,M,20-29
+17/04/2020,Fraser,M,20-29
+17/04/2020,Vancouver Island,M,20-29
+17/04/2020,Vancouver Island,F,20-29
+17/04/2020,Fraser,F,30-39
+17/04/2020,Fraser,F,30-39
+17/04/2020,Interior,M,30-39
+17/04/2020,Northern,F,30-39
+17/04/2020,Vancouver Coastal,F,30-39
+17/04/2020,Fraser,M,50-59
+17/04/2020,Fraser,M,50-59
+17/04/2020,Fraser,F,50-59
+17/04/2020,Fraser,F,50-59
+17/04/2020,Fraser,M,50-59
+17/04/2020,Interior,F,50-59
+17/04/2020,Vancouver Coastal,F,50-59
+17/04/2020,Vancouver Coastal,M,50-59
+17/04/2020,Fraser,F,60-69
+17/04/2020,Vancouver Coastal,F,60-69
+17/04/2020,Fraser,M,70-79
+17/04/2020,Vancouver Island,F,70-79
+17/04/2020,Fraser,M,80-89
+17/04/2020,Fraser,F,80-89
+17/04/2020,Fraser,M,80-89
+17/04/2020,Fraser,F,89+
+17/04/2020,Vancouver Coastal,F,89+
+17/04/2020,Vancouver Coastal,F,89+
+18/04/2020,Northern,F, 10-19
+18/04/2020,Vancouver Island,M,20-29
+18/04/2020,Vancouver Island,F,30-39
+18/04/2020,Northern,F,30-39
+18/04/2020,Northern,F,30-39
+18/04/2020,Fraser,M,40-49
+18/04/2020,Northern,M,40-49
+18/04/2020,Fraser,M,50-59
+18/04/2020,Fraser,M,50-59
+18/04/2020,Fraser,M,50-59
+18/04/2020,Fraser,M,50-59
+18/04/2020,Vancouver Island,F,50-59
+18/04/2020,Northern,F,50-59
+18/04/2020,Vancouver Coastal,F,50-59
+18/04/2020,Fraser,F,60-69
+18/04/2020,Vancouver Coastal,F,60-69
+18/04/2020,Fraser,M,70-79
+18/04/2020,Fraser,F,70-79
+18/04/2020,Vancouver Island,M,70-79
+18/04/2020,Vancouver Coastal,M,70-79
+18/04/2020,Fraser,M,80-89
+18/04/2020,Fraser,M,80-89
+18/04/2020,Fraser,M,80-89
+18/04/2020,Vancouver Coastal,F,80-89
+18/04/2020,Vancouver Coastal,F,89+
+18/04/2020,Vancouver Coastal,F,89+
+18/04/2020,Vancouver Coastal,F,89+
+18/04/2020,Vancouver Coastal,M,89+
+19/04/2020,Vancouver Coastal,M, 10-19
+19/04/2020,Vancouver Coastal,M, 10-19
+19/04/2020,Fraser,M,<10
+19/04/2020,Fraser,F,20-29
+19/04/2020,Vancouver Coastal,F,30-39
+19/04/2020,Vancouver Island,M,40-49
+19/04/2020,Fraser,M,70-79
+19/04/2020,Fraser,F,70-79
+19/04/2020,Fraser,F,70-79
+19/04/2020,Fraser,M,80-89
+19/04/2020,Fraser,F,89+
+19/04/2020,Vancouver Coastal,M,89+
+20/04/2020,Vancouver Island,F, 10-19
+20/04/2020,Fraser,F,20-29
+20/04/2020,Vancouver Island,F,20-29
+20/04/2020,Vancouver Island,F,20-29
+20/04/2020,Vancouver Island,F,20-29
+20/04/2020,Vancouver Coastal,F,20-29
+20/04/2020,Fraser,M,30-39
+20/04/2020,Fraser,M,30-39
+20/04/2020,Fraser,M,30-39
+20/04/2020,Interior,M,30-39
+20/04/2020,Vancouver Island,F,30-39
+20/04/2020,Vancouver Island,F,30-39
+20/04/2020,Northern,M,30-39
+20/04/2020,Vancouver Coastal,F,30-39
+20/04/2020,Fraser,F,40-49
+20/04/2020,Fraser,M,40-49
+20/04/2020,Fraser,M,40-49
+20/04/2020,Fraser,F,40-49
+20/04/2020,Vancouver Coastal,F,40-49
+20/04/2020,Vancouver Coastal,F,40-49
+20/04/2020,Fraser,F,50-59
+20/04/2020,Fraser,M,50-59
+20/04/2020,Vancouver Island,F,50-59
+20/04/2020,Vancouver Coastal,M,50-59
+20/04/2020,Fraser,M,60-69
+20/04/2020,Vancouver Coastal,M,60-69
+20/04/2020,Vancouver Coastal,M,60-69
+20/04/2020,Fraser,M,70-79
+20/04/2020,Fraser,M,70-79
+20/04/2020,Fraser,F,89+
+21/04/2020,Fraser,F,20-29
+21/04/2020,Interior,F,20-29
+21/04/2020,Vancouver Coastal,M,20-29
+21/04/2020,Vancouver Coastal,M,20-29
+21/04/2020,Fraser,F,30-39
+21/04/2020,Fraser,M,30-39
+21/04/2020,Fraser,F,30-39
+21/04/2020,Fraser,M,30-39
+21/04/2020,Fraser,M,30-39
+21/04/2020,Vancouver Coastal,M,30-39
+21/04/2020,Fraser,F,40-49
+21/04/2020,Fraser,F,40-49
+21/04/2020,Vancouver Coastal,F,40-49
+21/04/2020,Vancouver Coastal,M,40-49
+21/04/2020,Vancouver Coastal,F,40-49
+21/04/2020,Vancouver Coastal,F,40-49
+21/04/2020,Vancouver Coastal,F,40-49
+21/04/2020,Vancouver Coastal,M,40-49
+21/04/2020,Fraser,F,50-59
+21/04/2020,Fraser,F,50-59
+21/04/2020,Fraser,F,50-59
+21/04/2020,Fraser,F,50-59
+21/04/2020,Fraser,F,50-59
+21/04/2020,Fraser,F,50-59
+21/04/2020,Fraser,M,50-59
+21/04/2020,Vancouver Coastal,F,50-59
+21/04/2020,Vancouver Coastal,M,50-59
+21/04/2020,Vancouver Coastal,F,50-59
+21/04/2020,Vancouver Coastal,M,50-59
+21/04/2020,Vancouver Coastal,M,50-59
+21/04/2020,Vancouver Coastal,F,50-59
+21/04/2020,Vancouver Coastal,F,50-59
+21/04/2020,Vancouver Coastal,M,50-59
+21/04/2020,Vancouver Coastal,M,50-59
+21/04/2020,Vancouver Coastal,F,50-59
+21/04/2020,Vancouver Coastal,M,50-59
+21/04/2020,Vancouver Coastal,F,50-59
+21/04/2020,Vancouver Coastal,F,50-59
+21/04/2020,Fraser,M,60-69
+21/04/2020,Fraser,F,60-69
+21/04/2020,Fraser,M,60-69
+21/04/2020,Fraser,F,60-69
+21/04/2020,Fraser,M,60-69
+21/04/2020,Vancouver Coastal,F,60-69
+21/04/2020,Vancouver Coastal,F,60-69
+21/04/2020,Vancouver Coastal,F,60-69
+21/04/2020,Vancouver Coastal,M,60-69
+21/04/2020,Vancouver Coastal,M,60-69
+21/04/2020,Vancouver Coastal,M,60-69
+21/04/2020,Vancouver Coastal,M,60-69
+21/04/2020,Vancouver Coastal,F,60-69
+21/04/2020,Fraser,F,70-79
+21/04/2020,Vancouver Coastal,F,70-79
+21/04/2020,Fraser,F,80-89
+21/04/2020,Fraser,F,80-89
+21/04/2020,Fraser,M,80-89
+21/04/2020,Fraser,M,80-89
+21/04/2020,Fraser,F,80-89
+21/04/2020,Fraser,F,80-89
+21/04/2020,Fraser,F,80-89
+21/04/2020,Fraser,F,80-89
+21/04/2020,Vancouver Coastal,F,80-89
+21/04/2020,Vancouver Coastal,F,80-89
+21/04/2020,Vancouver Coastal,F,80-89
+21/04/2020,Fraser,F,89+
+21/04/2020,Fraser,F,89+
+21/04/2020,Fraser,F,89+
+21/04/2020,Fraser,F,89+
+21/04/2020,Fraser,F,89+
+21/04/2020,Vancouver Coastal,F,89+
+22/04/2020,Fraser,M, 10-19
+22/04/2020,Vancouver Island,F, 10-19
+22/04/2020,Vancouver Island,M, 10-19
+22/04/2020,Northern,M,<10
+22/04/2020,Fraser,M,20-29
+22/04/2020,Fraser,F,30-39
+22/04/2020,Fraser,M,30-39
+22/04/2020,Fraser,F,30-39
+22/04/2020,Interior,M,30-39
+22/04/2020,Vancouver Coastal,M,30-39
+22/04/2020,Fraser,M,40-49
+22/04/2020,Fraser,F,40-49
+22/04/2020,Interior,F,40-49
+22/04/2020,Interior,M,40-49
+22/04/2020,Interior,F,40-49
+22/04/2020,Vancouver Coastal,M,40-49
+22/04/2020,Vancouver Coastal,M,40-49
+22/04/2020,Vancouver Coastal,F,40-49
+22/04/2020,Vancouver Coastal,F,40-49
+22/04/2020,Vancouver Coastal,F,40-49
+22/04/2020,Fraser,F,50-59
+22/04/2020,Fraser,F,50-59
+22/04/2020,Fraser,M,50-59
+22/04/2020,Fraser,M,50-59
+22/04/2020,Fraser,F,50-59
+22/04/2020,Interior,F,50-59
+22/04/2020,Vancouver Coastal,F,50-59
+22/04/2020,Vancouver Coastal,F,50-59
+22/04/2020,Vancouver Coastal,F,50-59
+22/04/2020,Northern,F,60-69
+22/04/2020,Vancouver Coastal,M,60-69
+22/04/2020,Vancouver Coastal,F,60-69
+22/04/2020,Fraser,F,70-79
+22/04/2020,Fraser,M,80-89
+22/04/2020,Fraser,M,89+
+23/04/2020,Fraser,F,<10
+23/04/2020,Fraser,M,20-29
+23/04/2020,Fraser,M,20-29
+23/04/2020,Fraser,M,20-29
+23/04/2020,Fraser,M,20-29
+23/04/2020,Vancouver Coastal,F,20-29
+23/04/2020,Fraser,M,30-39
+23/04/2020,Fraser,F,30-39
+23/04/2020,Fraser,F,30-39
+23/04/2020,Fraser,F,30-39
+23/04/2020,Interior,F,30-39
+23/04/2020,Interior,M,30-39
+23/04/2020,Interior,F,30-39
+23/04/2020,Vancouver Island,M,30-39
+23/04/2020,Vancouver Coastal,M,30-39
+23/04/2020,Fraser,F,40-49
+23/04/2020,Fraser,M,40-49
+23/04/2020,Fraser,M,40-49
+23/04/2020,Fraser,M,40-49
+23/04/2020,Fraser,F,40-49
+23/04/2020,Interior,M,40-49
+23/04/2020,Vancouver Island,M,40-49
+23/04/2020,Vancouver Coastal,F,40-49
+23/04/2020,Vancouver Coastal,M,40-49
+23/04/2020,Fraser,M,50-59
+23/04/2020,Fraser,M,50-59
+23/04/2020,Fraser,M,50-59
+23/04/2020,Fraser,M,50-59
+23/04/2020,Fraser,M,50-59
+23/04/2020,Fraser,M,50-59
+23/04/2020,Fraser,M,50-59
+23/04/2020,Fraser,M,50-59
+23/04/2020,Vancouver Island,F,50-59
+23/04/2020,Vancouver Coastal,M,50-59
+23/04/2020,Vancouver Coastal,M,50-59
+23/04/2020,Fraser,M,60-69
+23/04/2020,Fraser,M,60-69
+23/04/2020,Fraser,M,60-69
+23/04/2020,Fraser,M,60-69
+23/04/2020,Fraser,M,60-69
+23/04/2020,Vancouver Coastal,M,70-79
+23/04/2020,Fraser,F,80-89
+23/04/2020,Fraser,F,80-89
+23/04/2020,Vancouver Coastal,F,80-89
+23/04/2020,Vancouver Coastal,F,80-89
+23/04/2020,Vancouver Coastal,M,80-89
+23/04/2020,Fraser,F,89+
+23/04/2020,Vancouver Coastal,M,89+
+24/04/2020,Vancouver Coastal,M, 10-19
+24/04/2020,Vancouver Coastal,M, 10-19
+24/04/2020,Fraser,M,20-29
+24/04/2020,Fraser,M,20-29
+24/04/2020,Fraser,F,20-29
+24/04/2020,Fraser,M,20-29
+24/04/2020,Fraser,M,20-29
+24/04/2020,Fraser,M,20-29
+24/04/2020,Fraser,M,20-29
+24/04/2020,Fraser,F,20-29
+24/04/2020,Fraser,M,20-29
+24/04/2020,Fraser,M,20-29
+24/04/2020,Interior,M,20-29
+24/04/2020,Vancouver Island,F,20-29
+24/04/2020,Vancouver Coastal,F,20-29
+24/04/2020,Vancouver Coastal,M,20-29
+24/04/2020,Fraser,M,30-39
+24/04/2020,Fraser,M,30-39
+24/04/2020,Fraser,M,30-39
+24/04/2020,Fraser,M,30-39
+24/04/2020,Fraser,M,30-39
+24/04/2020,Fraser,F,30-39
+24/04/2020,Fraser,F,30-39
+24/04/2020,Fraser,M,30-39
+24/04/2020,Fraser,M,30-39
+24/04/2020,Vancouver Coastal,M,30-39
+24/04/2020,Fraser,M,40-49
+24/04/2020,Fraser,M,40-49
+24/04/2020,Fraser,M,40-49
+24/04/2020,Fraser,M,40-49
+24/04/2020,Fraser,F,40-49
+24/04/2020,Fraser,F,40-49
+24/04/2020,Fraser,F,40-49
+24/04/2020,Fraser,F,40-49
+24/04/2020,Fraser,M,40-49
+24/04/2020,Vancouver Coastal,F,40-49
+24/04/2020,Vancouver Coastal,F,40-49
+24/04/2020,Fraser,F,50-59
+24/04/2020,Fraser,M,50-59
+24/04/2020,Fraser,M,50-59
+24/04/2020,Fraser,M,50-59
+24/04/2020,Fraser,M,50-59
+24/04/2020,Fraser,M,50-59
+24/04/2020,Fraser,F,50-59
+24/04/2020,Fraser,M,50-59
+24/04/2020,Fraser,F,50-59
+24/04/2020,Fraser,M,50-59
+24/04/2020,Fraser,M,50-59
+24/04/2020,Interior,M,50-59
+24/04/2020,Vancouver Coastal,F,50-59
+24/04/2020,Fraser,M,60-69
+24/04/2020,Fraser,M,60-69
+24/04/2020,Fraser,M,60-69
+24/04/2020,Fraser,F,60-69
+24/04/2020,Fraser,M,60-69
+24/04/2020,Vancouver Coastal,M,60-69
+24/04/2020,Fraser,M,70-79
+24/04/2020,Fraser,M,70-79
+24/04/2020,Fraser,F,70-79
+24/04/2020,Fraser,M,70-79
+24/04/2020,Vancouver Coastal,F,70-79
+24/04/2020,Fraser,F,80-89
+24/04/2020,Fraser,M,80-89
+24/04/2020,Fraser,F,80-89
+24/04/2020,Fraser,M,89+
+24/04/2020,Fraser,F,89+
+24/04/2020,Vancouver Coastal,F,89+
+25/04/2020,Fraser,F, 10-19
+25/04/2020,Vancouver Coastal,F, 10-19
+25/04/2020,Vancouver Coastal,M, 10-19
+25/04/2020,Fraser,F,20-29
+25/04/2020,Fraser,F,20-29
+25/04/2020,Fraser,M,20-29
+25/04/2020,Fraser,F,20-29
+25/04/2020,Vancouver Coastal,M,20-29
+25/04/2020,Vancouver Coastal,F,20-29
+25/04/2020,Vancouver Coastal,M,20-29
+25/04/2020,Vancouver Coastal,F,20-29
+25/04/2020,Fraser,F,30-39
+25/04/2020,Fraser,F,30-39
+25/04/2020,Fraser,F,30-39
+25/04/2020,Fraser,F,30-39
+25/04/2020,Fraser,M,30-39
+25/04/2020,Fraser,M,30-39
+25/04/2020,Fraser,F,30-39
+25/04/2020,Vancouver Coastal,F,30-39
+25/04/2020,Vancouver Coastal,M,30-39
+25/04/2020,Vancouver Coastal,M,30-39
+25/04/2020,Fraser,F,40-49
+25/04/2020,Fraser,M,40-49
+25/04/2020,Fraser,F,40-49
+25/04/2020,Fraser,F,40-49
+25/04/2020,Vancouver Island,F,40-49
+25/04/2020,Vancouver Coastal,F,40-49
+25/04/2020,Fraser,M,50-59
+25/04/2020,Fraser,M,50-59
+25/04/2020,Fraser,M,50-59
+25/04/2020,Fraser,F,50-59
+25/04/2020,Fraser,F,50-59
+25/04/2020,Vancouver Coastal,F,50-59
+25/04/2020,Vancouver Coastal,M,50-59
+25/04/2020,Vancouver Coastal,F,50-59
+25/04/2020,Fraser,M,60-69
+25/04/2020,Fraser,F,60-69
+25/04/2020,Vancouver Coastal,M,60-69
+25/04/2020,Northern,F,70-79
+25/04/2020,Vancouver Coastal,M,70-79
+25/04/2020,Fraser,M,80-89
+25/04/2020,Fraser,M,80-89
+25/04/2020,Fraser,F,80-89
+25/04/2020,Fraser,F,80-89
+25/04/2020,Vancouver Coastal,F,80-89
+25/04/2020,Fraser,F,89+
+25/04/2020,Vancouver Coastal,F,89+
+25/04/2020,Vancouver Coastal,F,89+
+25/04/2020,Vancouver Coastal,F,89+
+26/04/2020,Interior,M,<10
+26/04/2020,Interior,F,20-29
+26/04/2020,Vancouver Island,F,20-29
+26/04/2020,Fraser,F,30-39
+26/04/2020,Fraser,F,30-39
+26/04/2020,Fraser,M,40-49
+26/04/2020,Fraser,M,40-49
+26/04/2020,Fraser,F,40-49
+26/04/2020,Fraser,M,50-59
+26/04/2020,Fraser,M,50-59
+26/04/2020,Fraser,F,50-59
+26/04/2020,Fraser,M,50-59
+26/04/2020,Interior,F,50-59
+26/04/2020,Vancouver Coastal,F,50-59
+26/04/2020,Fraser,M,60-69
+26/04/2020,Interior,M,60-69
+27/04/2020,Fraser,M, 10-19
+27/04/2020,Fraser,M, 10-19
+27/04/2020,Fraser,M, 10-19
+27/04/2020,Fraser,M, 10-19
+27/04/2020,Vancouver Island,M, 10-19
+27/04/2020,Vancouver Coastal,M, 10-19
+27/04/2020,Vancouver Coastal,F, 10-19
+27/04/2020,Vancouver Coastal,F, 10-19
+27/04/2020,Fraser,F,20-29
+27/04/2020,Fraser,M,20-29
+27/04/2020,Fraser,F,20-29
+27/04/2020,Fraser,F,20-29
+27/04/2020,Fraser,F,20-29
+27/04/2020,Fraser,M,20-29
+27/04/2020,Fraser,M,20-29
+27/04/2020,Fraser,F,20-29
+27/04/2020,Interior,M,20-29
+27/04/2020,Northern,F,20-29
+27/04/2020,Fraser,F,30-39
+27/04/2020,Fraser,F,30-39
+27/04/2020,Fraser,F,30-39
+27/04/2020,Fraser,M,30-39
+27/04/2020,Fraser,M,30-39
+27/04/2020,Fraser,F,30-39
+27/04/2020,Fraser,F,30-39
+27/04/2020,Fraser,M,30-39
+27/04/2020,Fraser,F,30-39
+27/04/2020,Vancouver Island,M,30-39
+27/04/2020,Vancouver Island,M,30-39
+27/04/2020,Vancouver Coastal,F,30-39
+27/04/2020,Vancouver Coastal,F,30-39
+27/04/2020,Fraser,F,40-49
+27/04/2020,Fraser,F,40-49
+27/04/2020,Fraser,F,40-49
+27/04/2020,Fraser,M,40-49
+27/04/2020,Fraser,F,40-49
+27/04/2020,Vancouver Coastal,M,40-49
+27/04/2020,Fraser,M,50-59
+27/04/2020,Fraser,F,50-59
+27/04/2020,Fraser,M,50-59
+27/04/2020,Fraser,F,50-59
+27/04/2020,Fraser,M,50-59
+27/04/2020,Fraser,F,50-59
+27/04/2020,Vancouver Coastal,M,50-59
+27/04/2020,Vancouver Coastal,F,50-59
+27/04/2020,Vancouver Coastal,M,50-59
+27/04/2020,Vancouver Coastal,M,50-59
+27/04/2020,Fraser,M,60-69
+27/04/2020,Fraser,F,60-69
+27/04/2020,Fraser,F,60-69
+27/04/2020,Northern,M,60-69
+27/04/2020,Vancouver Coastal,M,60-69
+27/04/2020,Fraser,F,70-79
+27/04/2020,Fraser,M,70-79
+27/04/2020,Fraser,F,80-89
+28/04/2020,Fraser,M,<10
+28/04/2020,Fraser,M,<10
+28/04/2020,Vancouver Coastal,M,<10
+28/04/2020,Fraser,M,20-29
+28/04/2020,Fraser,F,20-29
+28/04/2020,Fraser,M,20-29
+28/04/2020,Fraser,F,20-29
+28/04/2020,Fraser,F,30-39
+28/04/2020,Fraser,F,30-39
+28/04/2020,Fraser,M,30-39
+28/04/2020,Northern,M,30-39
+28/04/2020,Vancouver Coastal,M,30-39
+28/04/2020,Fraser,M,40-49
+28/04/2020,Fraser,M,40-49
+28/04/2020,Fraser,F,40-49
+28/04/2020,Fraser,F,40-49
+28/04/2020,Fraser,F,40-49
+28/04/2020,Fraser,F,40-49
+28/04/2020,Fraser,F,40-49
+28/04/2020,Fraser,F,40-49
+28/04/2020,Fraser,M,40-49
+28/04/2020,Fraser,M,50-59
+28/04/2020,Fraser,M,50-59
+28/04/2020,Fraser,F,50-59
+28/04/2020,Fraser,F,50-59
+28/04/2020,Fraser,M,50-59
+28/04/2020,Interior,M,50-59
+28/04/2020,Vancouver Island,M,50-59
+28/04/2020,Fraser,M,60-69
+28/04/2020,Fraser,F,60-69
+28/04/2020,Fraser,F,60-69
+28/04/2020,Fraser,F,60-69
+28/04/2020,Fraser,F,60-69
+28/04/2020,Fraser,F,60-69
+28/04/2020,Fraser,M,60-69
+28/04/2020,Fraser,M,60-69
+28/04/2020,Vancouver Coastal,M,60-69
+28/04/2020,Fraser,M,70-79
+28/04/2020,Fraser,F,70-79
+28/04/2020,Fraser,F,80-89
+28/04/2020,Vancouver Coastal,F,80-89
+28/04/2020,Vancouver Coastal,F,89+
+29/04/2020,Fraser,F,<10
+29/04/2020,Fraser,F,20-29
+29/04/2020,Fraser,F,20-29
+29/04/2020,Fraser,F,20-29
+29/04/2020,Vancouver Coastal,F,20-29
+29/04/2020,Fraser,M,30-39
+29/04/2020,Fraser,F,30-39
+29/04/2020,Fraser,M,30-39
+29/04/2020,Interior,F,30-39
+29/04/2020,Fraser,M,40-49
+29/04/2020,Fraser,M,40-49
+29/04/2020,Fraser,M,40-49
+29/04/2020,Fraser,M,40-49
+29/04/2020,Vancouver Coastal,F,40-49
+29/04/2020,Vancouver Coastal,M,40-49
+29/04/2020,Fraser,F,50-59
+29/04/2020,Fraser,M,50-59
+29/04/2020,Fraser,M,50-59
+29/04/2020,Fraser,F,50-59
+29/04/2020,Fraser,M,50-59
+29/04/2020,Fraser,M,60-69
+29/04/2020,Fraser,M,60-69
+29/04/2020,Fraser,F,60-69
+29/04/2020,Fraser,F,70-79
+29/04/2020,Vancouver Coastal,F,80-89
+30/04/2020,Vancouver Coastal,F, 10-19
+30/04/2020,Fraser,F,20-29
+30/04/2020,Fraser,M,20-29
+30/04/2020,Fraser,F,20-29
+30/04/2020,Interior,M,20-29
+30/04/2020,Northern,M,20-29
+30/04/2020,Vancouver Coastal,F,20-29
+30/04/2020,Vancouver Coastal,F,20-29
+30/04/2020,Fraser,M,30-39
+30/04/2020,Fraser,M,30-39
+30/04/2020,Fraser,F,30-39
+30/04/2020,Fraser,M,30-39
+30/04/2020,Interior,F,30-39
+30/04/2020,Vancouver Coastal,F,30-39
+30/04/2020,Vancouver Coastal,M,30-39
+30/04/2020,Fraser,M,40-49
+30/04/2020,Fraser,F,40-49
+30/04/2020,Interior,M,40-49
+30/04/2020,Northern,F,40-49
+30/04/2020,Vancouver Coastal,M,40-49
+30/04/2020,Vancouver Coastal,F,40-49
+30/04/2020,Fraser,M,50-59
+30/04/2020,Fraser,M,50-59
+30/04/2020,Fraser,F,50-59
+30/04/2020,Northern,F,50-59
+30/04/2020,Vancouver Coastal,F,50-59
+30/04/2020,Fraser,F,60-69
+30/04/2020,Vancouver Coastal,F,60-69
+30/04/2020,Fraser,M,70-79
+30/04/2020,Vancouver Island,F,70-79
+30/04/2020,Fraser,M,80-89
+01/05/2020,Fraser,M,<10
+01/05/2020,Fraser,F,20-29
+01/05/2020,Fraser,F,20-29
+01/05/2020,Vancouver Coastal,M,20-29
+01/05/2020,Fraser,M,30-39
+01/05/2020,Fraser,F,30-39
+01/05/2020,Fraser,F,30-39
+01/05/2020,Vancouver Island,M,30-39
+01/05/2020,Vancouver Coastal,F,30-39
+01/05/2020,Fraser,M,40-49
+01/05/2020,Fraser,M,40-49
+01/05/2020,Fraser,M,40-49
+01/05/2020,Fraser,F,40-49
+01/05/2020,Vancouver Coastal,F,40-49
+01/05/2020,Fraser,F,50-59
+01/05/2020,Fraser,F,50-59
+01/05/2020,Fraser,M,50-59
+01/05/2020,Vancouver Coastal,M,50-59
+01/05/2020,Fraser,F,60-69
+01/05/2020,Interior,F,60-69
+01/05/2020,Vancouver Island,F,60-69
+01/05/2020,Vancouver Coastal,F,60-69
+01/05/2020,Fraser,M,70-79
+02/05/2020,Fraser,F, 10-19
+02/05/2020,Vancouver Coastal,M, 10-19
+02/05/2020,Fraser,M,<10
+02/05/2020,Fraser,F,20-29
+02/05/2020,Fraser,F,20-29
+02/05/2020,Fraser,F,20-29
+02/05/2020,Fraser,M,20-29
+02/05/2020,Fraser,F,20-29
+02/05/2020,Fraser,F,20-29
+02/05/2020,Fraser,F,20-29
+02/05/2020,Fraser,M,20-29
+02/05/2020,Fraser,M,20-29
+02/05/2020,Vancouver Coastal,M,20-29
+02/05/2020,Vancouver Coastal,M,20-29
+02/05/2020,Fraser,M,30-39
+02/05/2020,Fraser,M,30-39
+02/05/2020,Fraser,M,30-39
+02/05/2020,Fraser,F,30-39
+02/05/2020,Fraser,F,30-39
+02/05/2020,Interior,M,30-39
+02/05/2020,Fraser,M,40-49
+02/05/2020,Fraser,F,40-49
+02/05/2020,Fraser,F,40-49
+02/05/2020,Fraser,M,40-49
+02/05/2020,Vancouver Coastal,F,40-49
+02/05/2020,Fraser,M,50-59
+02/05/2020,Fraser,M,50-59
+02/05/2020,Vancouver Island,F,50-59
+02/05/2020,Northern,M,50-59
+02/05/2020,Vancouver Coastal,M,50-59
+02/05/2020,Fraser,M,60-69
+02/05/2020,Vancouver Coastal,M,60-69
+02/05/2020,Fraser,M,70-79
+02/05/2020,Vancouver Coastal,M,80-89
+02/05/2020,Vancouver Coastal,M,89+
+03/05/2020,Fraser,M, 10-19
+03/05/2020,Interior,M, 10-19
+03/05/2020,Fraser,F,20-29
+03/05/2020,Vancouver Coastal,M,20-29
+03/05/2020,Fraser,F,30-39
+03/05/2020,Fraser,M,30-39
+03/05/2020,Vancouver Coastal,M,30-39
+03/05/2020,Fraser,F,40-49
+03/05/2020,Fraser,F,40-49
+03/05/2020,Fraser,F,40-49
+03/05/2020,Vancouver Coastal,M,40-49
+03/05/2020,Fraser,F,50-59
+03/05/2020,Fraser,M,60-69
+03/05/2020,Fraser,F,60-69
+03/05/2020,Fraser,M,60-69
+03/05/2020,Fraser,M,80-89
+03/05/2020,Vancouver Coastal,F,80-89
+03/05/2020,Vancouver Coastal,M,80-89
+03/05/2020,Vancouver Coastal,M,89+
+04/05/2020,Fraser,F,20-29
+04/05/2020,Vancouver Coastal,M,20-29
+04/05/2020,Fraser,F,30-39
+04/05/2020,Fraser,M,30-39
+04/05/2020,Vancouver Coastal,F,30-39
+04/05/2020,Fraser,F,40-49
+04/05/2020,Fraser,M,50-59
+04/05/2020,Fraser,F,50-59
+04/05/2020,Northern,M,50-59
+04/05/2020,Vancouver Coastal,F,50-59
+04/05/2020,Fraser,F,80-89
+04/05/2020,Fraser,M,80-89
+05/05/2020,Fraser,F,<10
+05/05/2020,Fraser,M,<10
+05/05/2020,Fraser,F,20-29
+05/05/2020,Vancouver Coastal,F,20-29
+05/05/2020,Fraser,F,30-39
+05/05/2020,Fraser,F,30-39
+05/05/2020,Fraser,F,30-39
+05/05/2020,Fraser,F,30-39
+05/05/2020,Vancouver Coastal,F,30-39
+05/05/2020,Vancouver Coastal,M,30-39
+05/05/2020,Vancouver Coastal,F,30-39
+05/05/2020,Fraser,F,40-49
+05/05/2020,Fraser,F,50-59
+05/05/2020,Fraser,M,50-59
+05/05/2020,Northern,M,50-59
+05/05/2020,Northern,F,50-59
+05/05/2020,Fraser,F,60-69
+05/05/2020,Fraser,F,60-69
+05/05/2020,Interior,M,60-69
+05/05/2020,Vancouver Coastal,M,60-69
+05/05/2020,Fraser,F,70-79
+05/05/2020,Fraser,M,70-79
+05/05/2020,Fraser,M,80-89
+05/05/2020,Fraser,M,80-89
+06/05/2020,Fraser,M, 10-19
+06/05/2020,Fraser,M, 10-19
+06/05/2020,Fraser,F,<10
+06/05/2020,Fraser,F,20-29
+06/05/2020,Fraser,M,20-29
+06/05/2020,Fraser,F,20-29
+06/05/2020,Fraser,F,30-39
+06/05/2020,Fraser,F,30-39
+06/05/2020,Fraser,F,30-39
+06/05/2020,Northern,F,30-39
+06/05/2020,Fraser,F,40-49
+06/05/2020,Vancouver Coastal,F,40-49
+06/05/2020,Fraser,M,50-59
+06/05/2020,Fraser,F,50-59
+06/05/2020,Fraser,M,50-59
+06/05/2020,Vancouver Coastal,M,50-59
+06/05/2020,Vancouver Coastal,F,50-59
+06/05/2020,Fraser,M,60-69
+06/05/2020,Fraser,M,60-69
+06/05/2020,Vancouver Coastal,F,60-69
+06/05/2020,Vancouver Coastal,M,70-79
+06/05/2020,Fraser,M,80-89
+06/05/2020,Fraser,F,80-89
+06/05/2020,Fraser,F,80-89
+06/05/2020,Fraser,F,89+
+06/05/2020,Vancouver Coastal,F,89+
+07/05/2020,Fraser,F, 10-19
+07/05/2020,Fraser,M,<10
+07/05/2020,Fraser,F,<10
+07/05/2020,Fraser,F,20-29
+07/05/2020,Interior,M,20-29
+07/05/2020,Vancouver Coastal,F,20-29
+07/05/2020,Fraser,M,30-39
+07/05/2020,Fraser,F,30-39
+07/05/2020,Northern,M,30-39
+07/05/2020,Vancouver Coastal,F,30-39
+07/05/2020,Vancouver Coastal,F,30-39
+07/05/2020,Fraser,M,40-49
+07/05/2020,Fraser,M,40-49
+07/05/2020,Fraser,M,40-49
+07/05/2020,Vancouver Coastal,F,40-49
+07/05/2020,Fraser,F,50-59
+07/05/2020,Fraser,M,50-59
+07/05/2020,Vancouver Island,M,50-59
+07/05/2020,Vancouver Coastal,F,50-59
+07/05/2020,Fraser,M,60-69
+07/05/2020,Vancouver Coastal,M,60-69
+07/05/2020,Vancouver Coastal,F,70-79
+07/05/2020,Vancouver Coastal,F,70-79
+07/05/2020,Fraser,M,80-89
+07/05/2020,Fraser,F,89+
+08/05/2020,Fraser,F, 10-19
+08/05/2020,Northern,F, 10-19
+08/05/2020,Fraser,F,<10
+08/05/2020,Vancouver Coastal,M,20-29
+08/05/2020,Fraser,M,30-39
+08/05/2020,Fraser,F,30-39
+08/05/2020,Fraser,M,30-39
+08/05/2020,Fraser,F,40-49
+08/05/2020,Fraser,F,50-59
+08/05/2020,Fraser,F,70-79
+08/05/2020,Fraser,M,70-79
+08/05/2020,Fraser,F,80-89
+08/05/2020,Fraser,M,89+
+08/05/2020,Vancouver Coastal,F,89+
+09/05/2020,Fraser,M,<10
+09/05/2020,Fraser,F,20-29
+09/05/2020,Fraser,F,20-29
+09/05/2020,Fraser,F,30-39
+09/05/2020,Vancouver Coastal,M,30-39
+09/05/2020,Fraser,F,40-49
+09/05/2020,Fraser,F,50-59
+09/05/2020,Fraser,M,70-79
+10/05/2020,Fraser,M, 10-19
+10/05/2020,Northern,M,30-39
+10/05/2020,Vancouver Coastal,M,30-39
+10/05/2020,Fraser,F,40-49
+10/05/2020,Fraser,F,40-49
+10/05/2020,Fraser,M,50-59
+10/05/2020,Fraser,M,50-59
+10/05/2020,Fraser,M,50-59
+10/05/2020,Fraser,M,70-79
+10/05/2020,Fraser,M,70-79
+10/05/2020,Fraser,M,80-89
+10/05/2020,Fraser,M,80-89
+10/05/2020,Fraser,M,80-89
+11/05/2020,Fraser,M,20-29
+11/05/2020,Fraser,F,20-29
+11/05/2020,Fraser,F,40-49
+11/05/2020,Fraser,F,50-59
+11/05/2020,Vancouver Coastal,F,60-69
+11/05/2020,Fraser,M,70-79
+11/05/2020,Fraser,M,80-89
+11/05/2020,Fraser,F,80-89
+11/05/2020,Fraser,M,80-89
+12/05/2020,Fraser,M, 10-19
+12/05/2020,Fraser,F,40-49
+12/05/2020,Fraser,F,40-49
+12/05/2020,Vancouver Coastal,M,40-49
+12/05/2020,Fraser,M,50-59
+12/05/2020,Fraser,F,50-59
+12/05/2020,Vancouver Coastal,M,50-59
+12/05/2020,Vancouver Coastal,F,60-69
+12/05/2020,Fraser,M,70-79
+12/05/2020,Fraser,M,80-89
+12/05/2020,Fraser,F,80-89
+12/05/2020,Fraser,F,89+
+13/05/2020,Fraser,M,40-49
+13/05/2020,Fraser,F,40-49
+13/05/2020,Vancouver Coastal,M,40-49
+13/05/2020,Fraser,F,50-59
+13/05/2020,Northern,F,50-59
+13/05/2020,Fraser,F,70-79
+13/05/2020,Fraser,F,70-79
+13/05/2020,Interior,M,70-79
+13/05/2020,Fraser,M,80-89
+13/05/2020,Fraser,M,80-89
+13/05/2020,Fraser,M,80-89
+13/05/2020,Fraser,F,80-89
+13/05/2020,Fraser,F,80-89
+13/05/2020,Fraser,M,89+
+13/05/2020,Fraser,F,89+
+13/05/2020,Fraser,M,89+
+14/05/2020,Fraser,M,30-39
+14/05/2020,Fraser,F,40-49
+14/05/2020,Fraser,F,40-49
+14/05/2020,Fraser,M,60-69
+14/05/2020,Fraser,F,60-69
+14/05/2020,Fraser,F,60-69
+14/05/2020,Fraser,M,70-79
+14/05/2020,Fraser,M,70-79
+14/05/2020,Fraser,M,70-79
+14/05/2020,Fraser,M,70-79
+14/05/2020,Fraser,M,80-89
+14/05/2020,Fraser,M,80-89
+14/05/2020,Fraser,M,80-89
+14/05/2020,Fraser,F,89+
+14/05/2020,Fraser,F,89+
+15/05/2020,Fraser,F, 10-19
+15/05/2020,Fraser,M,<10
+15/05/2020,Fraser,M,20-29
+15/05/2020,Fraser,F,20-29
+15/05/2020,Fraser,M,20-29
+15/05/2020,Fraser,F,30-39
+15/05/2020,Fraser,F,40-49
+15/05/2020,Fraser,F,40-49
+15/05/2020,Northern,F,40-49
+15/05/2020,Fraser,F,50-59
+15/05/2020,Fraser,M,50-59
+15/05/2020,Fraser,F,60-69
+15/05/2020,Fraser,F,70-79
+15/05/2020,Fraser,F,80-89
+15/05/2020,Fraser,M,80-89
+15/05/2020,Fraser,F,80-89
+15/05/2020,Fraser,F,89+
+15/05/2020,Fraser,F,89+
+15/05/2020,Fraser,F,89+
+15/05/2020,Fraser,F,89+
+15/05/2020,Fraser,F,89+
+16/05/2020,Fraser,F,20-29
+16/05/2020,Fraser,F,20-29
+16/05/2020,Vancouver Coastal,M,30-39
+16/05/2020,Northern,M,40-49
+16/05/2020,Fraser,F,60-69
+16/05/2020,Fraser,M,60-69
+16/05/2020,Vancouver Coastal,F,60-69
+16/05/2020,Fraser,F,70-79
+16/05/2020,Fraser,F,70-79
+16/05/2020,Vancouver Coastal,F,89+
+17/05/2020,Fraser,F,20-29
+17/05/2020,Fraser,F,20-29
+17/05/2020,Fraser,F,20-29
+17/05/2020,Fraser,M,30-39
+17/05/2020,Fraser,F,40-49
+17/05/2020,Fraser,F,40-49
+17/05/2020,Fraser,M,50-59
+17/05/2020,Fraser,M,50-59
+17/05/2020,Vancouver Coastal,M,60-69
+18/05/2020,Fraser,M,20-29
+18/05/2020,Fraser,F,30-39
+18/05/2020,Fraser,F,30-39
+18/05/2020,Vancouver Coastal,F,60-69
+18/05/2020,Vancouver Coastal,F,70-79
+19/05/2020,Fraser,F, 10-19
+19/05/2020,Fraser,M,20-29
+19/05/2020,Fraser,M,20-29
+19/05/2020,Fraser,F,20-29
+19/05/2020,Fraser,F,20-29
+19/05/2020,Fraser,F,20-29
+19/05/2020,Fraser,M,30-39
+19/05/2020,Fraser,M,30-39
+19/05/2020,Fraser,M,30-39
+19/05/2020,Fraser,M,40-49
+19/05/2020,Interior,M,40-49
+19/05/2020,Fraser,F,50-59
+19/05/2020,Fraser,M,50-59
+19/05/2020,Fraser,M,70-79
+19/05/2020,Fraser,F,80-89
+19/05/2020,Fraser,F,80-89
